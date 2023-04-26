@@ -1,0 +1,701 @@
+[{
+  "_id": {
+    "$oid": "6132347d210f23103411c7bc"
+  },
+  "id_competition": "61323400210f23103411c7bb",
+  "mySchedule": {
+    "left_bracket": [
+      {
+        "name1": "Teniser",
+        "name2": "Teniser",
+        "surname1": "Dva",
+        "surname2": "Pet",
+        "id_p1": "612e13437c9fd9225c99cf75",
+        "id_p2": "612e1716f5e45d25d0284752",
+        "p1_res": "2",
+        "p2_res": "1",
+        "date": "2021-07-25",
+        "time": "04:10",
+        "venue": "Ariake Tennis Park",
+        "round": 8,
+        "phase": 8,
+        "done": true
+      },
+      {
+        "name1": "Teniser",
+        "name2": "Teniser",
+        "surname1": "Tri",
+        "surname2": "Sedam",
+        "id_p1": "612e13497c9fd9225c99cf76",
+        "id_p2": "612e1722f5e45d25d0284754",
+        "p1_res": "1",
+        "p2_res": "2",
+        "date": "2021-07-25",
+        "time": "06:45",
+        "venue": "Ariake Tennis Park",
+        "round": 8,
+        "phase": 8,
+        "done": true
+      },
+      {
+        "name1": "Teniser",
+        "name2": "Teniser",
+        "surname1": "Dva",
+        "surname2": "Sedam",
+        "id_p1": "612e13437c9fd9225c99cf75",
+        "id_p2": "612e1722f5e45d25d0284754",
+        "p1_res": "2",
+        "p2_res": "1",
+        "date": "2021-07-26",
+        "time": "19:30",
+        "venue": "Ariake Tennis Park",
+        "round": 4,
+        "phase": 4,
+        "done": true
+      },
+      {
+        "name1": "Teniser",
+        "name2": "Teniser",
+        "surname1": "Dva",
+        "surname2": "Jedan",
+        "id_p1": "612e13437c9fd9225c99cf75",
+        "id_p2": "612e133b7c9fd9225c99cf74",
+        "p1_res": "2",
+        "p2_res": "0",
+        "date": "2021-07-29",
+        "time": "19:31",
+        "venue": "Ariake Tennis Park",
+        "round": 2,
+        "phase": 0,
+        "done": true
+      }
+    ],
+    "right_bracket": [
+      {
+        "name1": "Teniser",
+        "name2": "Teniser",
+        "surname1": "Jedan",
+        "surname2": "Cetri",
+        "id_p1": "612e133b7c9fd9225c99cf74",
+        "id_p2": "612e164af5e45d25d0284750",
+        "p1_res": "2",
+        "p2_res": "1",
+        "date": "2021-07-25",
+        "time": "10:42",
+        "venue": "Ariake Tennis Park",
+        "round": 8,
+        "phase": 8,
+        "done": true
+      },
+      {
+        "name1": "Teniser",
+        "name2": "Teniser",
+        "surname1": "Sest",
+        "surname2": "Osam",
+        "id_p1": "612e171df5e45d25d0284753",
+        "id_p2": "612e1729f5e45d25d0284755",
+        "p1_res": "1",
+        "p2_res": "2",
+        "date": "2021-07-26",
+        "time": "19:42",
+        "venue": "Ariake Tennis Park",
+        "round": 8,
+        "phase": 8,
+        "done": true
+      },
+      {
+        "name1": "Teniser",
+        "name2": "Teniser",
+        "surname1": "Jedan",
+        "surname2": "Osam",
+        "id_p1": "612e133b7c9fd9225c99cf74",
+        "id_p2": "612e1729f5e45d25d0284755",
+        "p1_res": "2",
+        "p2_res": "1",
+        "date": "2021-07-26",
+        "time": "20:30",
+        "venue": "Ariake Tennis Park",
+        "round": 4,
+        "phase": 4,
+        "done": true
+      },
+      {
+        "name1": "Teniser",
+        "name2": "Teniser",
+        "surname1": "Sedam",
+        "surname2": "Osam",
+        "id_p1": "612e1722f5e45d25d0284754",
+        "id_p2": "612e1729f5e45d25d0284755",
+        "p1_res": "2",
+        "p2_res": "1",
+        "date": "2021-07-29",
+        "time": "20:31",
+        "venue": "Ariake Tennis Park",
+        "round": 2,
+        "phase": 1,
+        "done": true
+      }
+    ]
+  },
+  "id_bronze": "612e1722f5e45d25d0284754",
+  "id_silver": "612e133b7c9fd9225c99cf74",
+  "id_gold": "612e13437c9fd9225c99cf75"
+},{
+  "_id": {
+    "$oid": "61339addaecbd51e3cb8ea80"
+  },
+  "id_competition": "6127b9eb1010910f00eeec0d",
+  "mySchedule": {
+    "results": [
+      [
+        {
+          "id_player": "612cfdf72780f919b41bcfa3",
+          "result": "10:10:10"
+        },
+        {
+          "id_player": "612cfdef2780f919b41bcfa1",
+          "result": "10:10:10"
+        },
+        {
+          "id_player": "612cfe052780f919b41bcfa7",
+          "result": "10:10:11"
+        },
+        {
+          "id_player": "612cfdfa2780f919b41bcfa4",
+          "result": "10:10:11"
+        },
+        {
+          "id_player": "612cfdea2780f919b41bcfa0",
+          "result": "10:10:17"
+        },
+        {
+          "id_player": "612cfe012780f919b41bcfa6",
+          "result": "10:12:10"
+        },
+        {
+          "id_player": "612cfdfd2780f919b41bcfa5",
+          "result": "10:15:10"
+        },
+        {
+          "id_player": "612cfdf22780f919b41bcfa2",
+          "result": "10:50:10"
+        }
+      ]
+    ],
+    "start_date": "2021-08-01T06:15:00.000Z",
+    "redo": [
+      [
+        {
+          "id_player": "612cfdf72780f919b41bcfa3",
+          "result": "10:10:19"
+        },
+        {
+          "id_player": "612cfdef2780f919b41bcfa1",
+          "result": "10:10:10"
+        }
+      ],
+      [
+        {
+          "id_player": "612cfe052780f919b41bcfa7",
+          "result": "10:10:17"
+        },
+        {
+          "id_player": "612cfdfa2780f919b41bcfa4",
+          "result": "10:10:10"
+        }
+      ]
+    ],
+    "redo_date": null,
+    "venue": "Musashinonomori Park",
+    "redo_venue": null
+  },
+  "id_bronze": "612cfdfa2780f919b41bcfa4",
+  "id_silver": "612cfdf72780f919b41bcfa3",
+  "id_gold": "612cfdef2780f919b41bcfa1"
+},{
+  "_id": {
+    "$oid": "6133b3523444e627f89e91ab"
+  },
+  "id_competition": "6127ab721010910f00eeebef",
+  "mySchedule": {
+    "results": [
+      [
+        {
+          "id_player": "612d3fab53c10003e0ea58dc",
+          "result": "10:30,00"
+        },
+        {
+          "id_player": "612d3fa153c10003e0ea58da",
+          "result": "10:30,00"
+        },
+        {
+          "id_player": "612d3fbd53c10003e0ea58e0",
+          "result": "10:32,00"
+        },
+        {
+          "id_player": "612d3faf53c10003e0ea58dd",
+          "result": "10:33,00"
+        },
+        {
+          "id_player": "612d3f9d53c10003e0ea58d9",
+          "result": "10:34,00"
+        },
+        {
+          "id_player": "612d3fb953c10003e0ea58df",
+          "result": "10:37,00"
+        },
+        {
+          "id_player": "612d3fb553c10003e0ea58de",
+          "result": "10:39,00"
+        },
+        {
+          "id_player": "612d3fa653c10003e0ea58db",
+          "result": "10:47,00"
+        }
+      ]
+    ],
+    "start_date": "2021-07-25T19:56:00.000Z",
+    "redo": [
+      [
+        {
+          "id_player": "612d3fab53c10003e0ea58dc",
+          "result": "10:30,00"
+        },
+        {
+          "id_player": "612d3fa153c10003e0ea58da",
+          "result": "10:33,00"
+        }
+      ]
+    ],
+    "redo_date": null,
+    "venue": "Sapporo Odori Park",
+    "redo_venue": null
+  },
+  "id_bronze": "612d3fbd53c10003e0ea58e0",
+  "id_silver": "612d3fa153c10003e0ea58da",
+  "id_gold": "612d3fab53c10003e0ea58dc"
+},{
+  "_id": {
+    "$oid": "6133c392f4af4b21dc4c7e67"
+  },
+  "id_competition": "6127b1fb1010910f00eeebfd",
+  "mySchedule": {
+    "results": [
+      [
+        {
+          "id_player": "612d2e622e87742e60b56d3a",
+          "result": "50,10"
+        },
+        {
+          "id_player": "612d2e5c2e87742e60b56d38",
+          "result": "10,10"
+        },
+        {
+          "id_player": "612d2e582e87742e60b56d37",
+          "result": "15,10"
+        },
+        {
+          "id_player": "612d2e702e87742e60b56d3e",
+          "result": "14,10"
+        },
+        {
+          "id_player": "612d2e652e87742e60b56d3b",
+          "result": "13,10"
+        },
+        {
+          "id_player": "612d2e6b2e87742e60b56d3d",
+          "result": "12,10"
+        },
+        {
+          "id_player": "612d2e682e87742e60b56d3c",
+          "result": "11,10"
+        },
+        {
+          "id_player": "612d2e5f2e87742e60b56d39",
+          "result": "10,10"
+        }
+      ],
+      [
+        {
+          "id_player": "612d2e622e87742e60b56d3a",
+          "result": "10,10"
+        },
+        {
+          "id_player": "612d2e5c2e87742e60b56d38",
+          "result": "10,10"
+        },
+        {
+          "id_player": "612d2e582e87742e60b56d37",
+          "result": "15,10"
+        },
+        {
+          "id_player": "612d2e702e87742e60b56d3e",
+          "result": "14,10"
+        },
+        {
+          "id_player": "612d2e652e87742e60b56d3b",
+          "result": "13,10"
+        },
+        {
+          "id_player": "612d2e6b2e87742e60b56d3d",
+          "result": "12,10"
+        },
+        {
+          "id_player": "612d2e682e87742e60b56d3c",
+          "result": "11,10"
+        },
+        {
+          "id_player": "612d2e5f2e87742e60b56d39",
+          "result": "10,10"
+        }
+      ],
+      [
+        {
+          "id_player": "612d2e622e87742e60b56d3a",
+          "result": "10,10"
+        },
+        {
+          "id_player": "612d2e5c2e87742e60b56d38",
+          "result": "50,10"
+        },
+        {
+          "id_player": "612d2e582e87742e60b56d37",
+          "result": "15,10"
+        },
+        {
+          "id_player": "612d2e702e87742e60b56d3e",
+          "result": "14,10"
+        },
+        {
+          "id_player": "612d2e652e87742e60b56d3b",
+          "result": "13,10"
+        },
+        {
+          "id_player": "612d2e6b2e87742e60b56d3d",
+          "result": "12,10"
+        },
+        {
+          "id_player": "612d2e682e87742e60b56d3c",
+          "result": "11,10"
+        },
+        {
+          "id_player": "612d2e5f2e87742e60b56d39",
+          "result": "10,10"
+        }
+      ]
+    ],
+    "start_date": "2021-08-01T13:05:00.000Z",
+    "redo": [
+      [
+        {
+          "id_player": "612d2e622e87742e60b56d3a",
+          "result": "10,20"
+        },
+        {
+          "id_player": "612d2e5c2e87742e60b56d38",
+          "result": "10,30"
+        }
+      ]
+    ],
+    "redo_date": null,
+    "venue": "Sapporo Odori Park",
+    "redo_venue": null
+  },
+  "id_bronze": "612d2e582e87742e60b56d37",
+  "id_silver": "612d2e622e87742e60b56d3a",
+  "id_gold": "612d2e5c2e87742e60b56d38"
+},{
+  "_id": {
+    "$oid": "6133d512d2c0cd31542bb52a"
+  },
+  "id_competition": "6127aaec1010910f00eeebec",
+  "mySchedule": {
+    "results": [
+      [
+        {
+          "id_player": "612d0f81123c87361032dadb",
+          "result": "10,20"
+        },
+        {
+          "id_player": "612d0f79123c87361032dad9",
+          "result": "10,20"
+        },
+        {
+          "id_player": "612d0f76123c87361032dad8",
+          "result": "10,27"
+        },
+        {
+          "id_player": "612d0f90123c87361032dadf",
+          "result": "10,29"
+        },
+        {
+          "id_player": "612d0f86123c87361032dadc",
+          "result": "10,40"
+        },
+        {
+          "id_player": "612d0f8c123c87361032dade",
+          "result": "10,82"
+        },
+        {
+          "id_player": "612d0f89123c87361032dadd",
+          "result": "10,42"
+        },
+        {
+          "id_player": "612d0f7d123c87361032dada",
+          "result": "10,31"
+        }
+      ]
+    ],
+    "start_date": "2021-07-23T00:20:00.000Z",
+    "redo": [
+      [
+        {
+          "id_player": "612d0f81123c87361032dadb",
+          "result": "11,30"
+        },
+        {
+          "id_player": "612d0f79123c87361032dad9",
+          "result": "10,22"
+        }
+      ]
+    ],
+    "redo_date": null,
+    "venue": "Sapporo Odori Park",
+    "redo_venue": null
+  },
+  "id_bronze": "612d0f76123c87361032dad8",
+  "id_silver": "612d0f81123c87361032dadb",
+  "id_gold": "612d0f79123c87361032dad9"
+},{
+  "_id": {
+    "$oid": "6133ddee77a1773d1448daf9"
+  },
+  "id_competition": "6127bc221010910f00eeec13",
+  "mySchedule": {
+    "results": [
+      [
+        {
+          "id_player": "61296ad94fc4b20bf889b8b6",
+          "result": "80"
+        },
+        {
+          "id_player": "61296ac74fc4b20bf889b8b4",
+          "result": "80"
+        },
+        {
+          "id_player": "61296afe4fc4b20bf889b8ba",
+          "result": "32"
+        },
+        {
+          "id_player": "61296ae04fc4b20bf889b8b7",
+          "result": "21"
+        },
+        {
+          "id_player": "61296abb4fc4b20bf889b8b3",
+          "result": "12"
+        },
+        {
+          "id_player": "61296af14fc4b20bf889b8b9",
+          "result": "1"
+        },
+        {
+          "id_player": "61296aeb4fc4b20bf889b8b8",
+          "result": "10"
+        },
+        {
+          "id_player": "61296acf4fc4b20bf889b8b5",
+          "result": "42"
+        }
+      ],
+      [
+        {
+          "id_player": "61296ad94fc4b20bf889b8b6",
+          "result": "80"
+        },
+        {
+          "id_player": "61296ac74fc4b20bf889b8b4",
+          "result": "80"
+        },
+        {
+          "id_player": "61296afe4fc4b20bf889b8ba",
+          "result": "32"
+        },
+        {
+          "id_player": "61296ae04fc4b20bf889b8b7",
+          "result": "21"
+        },
+        {
+          "id_player": "61296abb4fc4b20bf889b8b3",
+          "result": "12"
+        },
+        {
+          "id_player": "61296af14fc4b20bf889b8b9",
+          "result": "6"
+        },
+        {
+          "id_player": "61296aeb4fc4b20bf889b8b8",
+          "result": "11"
+        },
+        {
+          "id_player": "61296acf4fc4b20bf889b8b5",
+          "result": "5"
+        }
+      ],
+      [
+        {
+          "id_player": "61296ad94fc4b20bf889b8b6",
+          "result": "80"
+        },
+        {
+          "id_player": "61296ac74fc4b20bf889b8b4",
+          "result": "80"
+        },
+        {
+          "id_player": "61296afe4fc4b20bf889b8ba",
+          "result": "32"
+        },
+        {
+          "id_player": "61296ae04fc4b20bf889b8b7",
+          "result": "21"
+        },
+        {
+          "id_player": "61296abb4fc4b20bf889b8b3",
+          "result": "12"
+        },
+        {
+          "id_player": "61296af14fc4b20bf889b8b9",
+          "result": "11"
+        },
+        {
+          "id_player": "61296aeb4fc4b20bf889b8b8",
+          "result": "1"
+        },
+        {
+          "id_player": "61296acf4fc4b20bf889b8b5",
+          "result": "20"
+        }
+      ],
+      [
+        {
+          "id_player": "61296ad94fc4b20bf889b8b6",
+          "result": "80"
+        },
+        {
+          "id_player": "61296ac74fc4b20bf889b8b4",
+          "result": "80"
+        },
+        {
+          "id_player": "61296afe4fc4b20bf889b8ba",
+          "result": "32"
+        },
+        {
+          "id_player": "61296ae04fc4b20bf889b8b7",
+          "result": "21"
+        },
+        {
+          "id_player": "61296abb4fc4b20bf889b8b3",
+          "result": "12"
+        },
+        {
+          "id_player": "61296af14fc4b20bf889b8b9",
+          "result": "51"
+        },
+        {
+          "id_player": "61296aeb4fc4b20bf889b8b8",
+          "result": "7"
+        },
+        {
+          "id_player": "61296acf4fc4b20bf889b8b5",
+          "result": "24"
+        }
+      ],
+      [
+        {
+          "id_player": "61296ad94fc4b20bf889b8b6",
+          "result": "80"
+        },
+        {
+          "id_player": "61296ac74fc4b20bf889b8b4",
+          "result": "80"
+        },
+        {
+          "id_player": "61296afe4fc4b20bf889b8ba",
+          "result": "32"
+        },
+        {
+          "id_player": "61296ae04fc4b20bf889b8b7",
+          "result": "21"
+        },
+        {
+          "id_player": "61296abb4fc4b20bf889b8b3",
+          "result": "12"
+        },
+        {
+          "id_player": "61296af14fc4b20bf889b8b9",
+          "result": "60"
+        },
+        {
+          "id_player": "61296aeb4fc4b20bf889b8b8",
+          "result": "18"
+        },
+        {
+          "id_player": "61296acf4fc4b20bf889b8b5",
+          "result": "14"
+        }
+      ],
+      [
+        {
+          "id_player": "61296ad94fc4b20bf889b8b6",
+          "result": "80"
+        },
+        {
+          "id_player": "61296ac74fc4b20bf889b8b4",
+          "result": "80"
+        },
+        {
+          "id_player": "61296afe4fc4b20bf889b8ba",
+          "result": "32"
+        },
+        {
+          "id_player": "61296ae04fc4b20bf889b8b7",
+          "result": "21"
+        },
+        {
+          "id_player": "61296abb4fc4b20bf889b8b3",
+          "result": "12"
+        },
+        {
+          "id_player": "61296af14fc4b20bf889b8b9",
+          "result": "1"
+        },
+        {
+          "id_player": "61296aeb4fc4b20bf889b8b8",
+          "result": "1"
+        },
+        {
+          "id_player": "61296acf4fc4b20bf889b8b5",
+          "result": "1"
+        }
+      ]
+    ],
+    "start_date": "2021-07-26T14:58:00.000Z",
+    "redo": [
+      [
+        {
+          "id_player": "61296ad94fc4b20bf889b8b6",
+          "result": "95"
+        },
+        {
+          "id_player": "61296ac74fc4b20bf889b8b4",
+          "result": "100"
+        }
+      ]
+    ],
+    "redo_date": null,
+    "venue": "Asaka Shooting Range",
+    "redo_venue": null
+  },
+  "id_bronze": "61296afe4fc4b20bf889b8ba",
+  "id_silver": "61296ad94fc4b20bf889b8b6",
+  "id_gold": "61296ac74fc4b20bf889b8b4"
+}]

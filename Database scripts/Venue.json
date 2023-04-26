@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "61215c6a7086787fbd82cab6"
+  },
+  "name": "Olympic Stadium",
+  "sports": [
+    {
+      "name": "Athletics"
+    }
+  ],
+  "busy_dates": [],
+  "image": "olympic_stadium.jpg"
+},{
+  "_id": {
+    "$oid": "61215d7c7086787fbd82cb12"
+  },
+  "name": "Musashinonomori Park",
+  "sports": [
+    {
+      "name": "Cycling"
+    }
+  ],
+  "busy_dates": [
+    {
+      "start_date": "2021-08-01T06:15:00.000Z",
+      "gender": "male"
+    }
+  ],
+  "image": "musashinonomori_park.jpg"
+},{
+  "_id": {
+    "$oid": "61215dc57086787fbd82cb31"
+  },
+  "name": "Ariake Urban Sports Park",
+  "sports": [
+    {
+      "name": "Cycling"
+    }
+  ],
+  "busy_dates": [],
+  "image": "ariake_urban_sports_park.jpg"
+},{
+  "_id": {
+    "$oid": "61215ff57086787fbd82cbef"
+  },
+  "name": "Ariake Tennis Park",
+  "sports": [
+    {
+      "name": "Tennis"
+    }
+  ],
+  "busy_dates": [
+    {
+      "start_date": "2021-07-25T02:10:00.000Z",
+      "gender": "male"
+    },
+    {
+      "start_date": "2021-07-25T04:45:00.000Z",
+      "gender": "male"
+    },
+    {
+      "start_date": "2021-07-26T17:42:00.000Z",
+      "gender": "male"
+    },
+    {
+      "start_date": "2021-07-25T08:42:00.000Z",
+      "gender": "male"
+    },
+    {
+      "start_date": "2021-07-26T18:30:00.000Z",
+      "gender": "male"
+    },
+    {
+      "start_date": "2021-07-26T17:30:00.000Z",
+      "gender": "male"
+    },
+    {
+      "start_date": "2021-07-29T17:31:00.000Z",
+      "gender": "male"
+    },
+    {
+      "start_date": "2021-07-29T18:31:00.000Z",
+      "gender": "male"
+    }
+  ],
+  "image": "ariake_tennis_park.jpg"
+},{
+  "_id": {
+    "$oid": "612160657086787fbd82cc1c"
+  },
+  "name": "Odaiba Marine Park",
+  "sports": [
+    {
+      "name": "Swimming"
+    }
+  ],
+  "busy_dates": [],
+  "image": "odaiba_marine_park.jpg"
+},{
+  "_id": {
+    "$oid": "612160fd7086787fbd82cc5e"
+  },
+  "name": "Tokyo Aquatics Centre",
+  "sports": [
+    {
+      "name": "Swimming"
+    }
+  ],
+  "busy_dates": [],
+  "image": "tokyo_aquatics_centre.jpg"
+},{
+  "_id": {
+    "$oid": "612161587086787fbd82cc83"
+  },
+  "name": "Sapporo Odori Park",
+  "sports": [
+    {
+      "name": "Athletics"
+    }
+  ],
+  "busy_dates": [
+    {
+      "start_date": "2021-07-25T19:56:00.000Z",
+      "gender": "male"
+    },
+    {
+      "start_date": "2021-08-01T13:05:00.000Z",
+      "gender": "male"
+    },
+    {
+      "start_date": "2021-07-23T00:20:00.000Z",
+      "gender": "female"
+    }
+  ],
+  "image": "sapporo_odori_park.jpg"
+},{
+  "_id": {
+    "$oid": "6121619d7086787fbd82cca6"
+  },
+  "name": "Asaka Shooting Range",
+  "sports": [
+    {
+      "name": "Shooting"
+    }
+  ],
+  "busy_dates": [
+    {
+      "start_date": "2021-07-26T14:58:00.000Z",
+      "gender": "male"
+    }
+  ],
+  "image": "asaka_shooting_range.jpg"
+},{
+  "_id": {
+    "$oid": "6121629f7086787fbd82ccff"
+  },
+  "name": "Fuji International Speedway",
+  "sports": [
+    {
+      "name": "Cycling"
+    }
+  ],
+  "busy_dates": [],
+  "image": "fuji_international_speedway.jpg"
+}]

@@ -1,0 +1,3497 @@
+[{
+  "_id": {
+    "$oid": "61266b002ce8141c7c44ecd8"
+  },
+  "name": "Tika",
+  "surname": "Spic",
+  "nation": "Brazil",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61296abb4fc4b20bf889b8b3"
+  },
+  "name": "Prvi",
+  "surname": "Prvic",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Shooting",
+  "disciplines": [
+    {
+      "discipline_name": "Air pistol, 10m",
+      "medal": "none"
+    },
+    {
+      "discipline_name": "Low caliber pistol, 25m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61296ac74fc4b20bf889b8b4"
+  },
+  "name": "Drugi",
+  "surname": "Drugic",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Shooting",
+  "disciplines": [
+    {
+      "discipline_name": "Air pistol, 10m",
+      "medal": "gold"
+    },
+    {
+      "discipline_name": "Low caliber pistol, 25m",
+      "medal": ""
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61296acf4fc4b20bf889b8b5"
+  },
+  "name": "Treci",
+  "surname": "Trecic",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Shooting",
+  "disciplines": [
+    {
+      "discipline_name": "Air pistol, 10m",
+      "medal": "none"
+    },
+    {
+      "discipline_name": "Air rifle, 10m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Low caliber pistol, 25m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61296ad94fc4b20bf889b8b6"
+  },
+  "name": "Cetvrti",
+  "surname": "Cetvrtic",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Shooting",
+  "disciplines": [
+    {
+      "discipline_name": "Air pistol, 10m",
+      "medal": "silver"
+    },
+    {
+      "discipline_name": "Air rifle, 10m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Low caliber pistol, 25m",
+      "medal": ""
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61296ae04fc4b20bf889b8b7"
+  },
+  "name": "PEti",
+  "surname": "Petic",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Shooting",
+  "disciplines": [
+    {
+      "discipline_name": "Air pistol, 10m",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61296aeb4fc4b20bf889b8b8"
+  },
+  "name": "Sesti",
+  "surname": "Sestic",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Shooting",
+  "disciplines": [
+    {
+      "discipline_name": "Air pistol, 10m",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61296af14fc4b20bf889b8b9"
+  },
+  "name": "Sedmi",
+  "surname": "Sedmic",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Shooting",
+  "disciplines": [
+    {
+      "discipline_name": "Air pistol, 10m",
+      "medal": "none"
+    },
+    {
+      "discipline_name": "Low caliber pistol, 25m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61296afe4fc4b20bf889b8ba"
+  },
+  "name": "Osmi",
+  "surname": "Osmic",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Shooting",
+  "disciplines": [
+    {
+      "discipline_name": "Air pistol, 10m",
+      "medal": "bronze"
+    },
+    {
+      "discipline_name": "Triple, 50m",
+      "medal": ""
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61297aaf4fc4b20bf889b8bb"
+  },
+  "name": "Ronaldo",
+  "surname": "Nazario",
+  "nation": "Brazil",
+  "gender": "male",
+  "sport": "Shooting",
+  "disciplines": [
+    {
+      "discipline_name": "Air pistol, 10m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612cfdea2780f919b41bcfa0"
+  },
+  "name": "Bajs",
+  "surname": "Prvi",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Cycling",
+  "disciplines": [
+    {
+      "discipline_name": "Dirt road race, 225km",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612cfdef2780f919b41bcfa1"
+  },
+  "name": "Bajs",
+  "surname": "Drugi",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Cycling",
+  "disciplines": [
+    {
+      "discipline_name": "Dirt road race, 225km",
+      "medal": "gold"
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612cfdf22780f919b41bcfa2"
+  },
+  "name": "Bajs",
+  "surname": "Treci",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Cycling",
+  "disciplines": [
+    {
+      "discipline_name": "Dirt road race, 225km",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612cfdf72780f919b41bcfa3"
+  },
+  "name": "Bajs",
+  "surname": "Cetvrti",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Cycling",
+  "disciplines": [
+    {
+      "discipline_name": "Dirt road race, 225km",
+      "medal": "silver"
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612cfdfa2780f919b41bcfa4"
+  },
+  "name": "Bajs",
+  "surname": "Peti",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Cycling",
+  "disciplines": [
+    {
+      "discipline_name": "Dirt road race, 225km",
+      "medal": "bronze"
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612cfdfd2780f919b41bcfa5"
+  },
+  "name": "Bajs",
+  "surname": "Sesti",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Cycling",
+  "disciplines": [
+    {
+      "discipline_name": "Dirt road race, 225km",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612cfe012780f919b41bcfa6"
+  },
+  "name": "Bajs",
+  "surname": "Sedmi",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Cycling",
+  "disciplines": [
+    {
+      "discipline_name": "Dirt road race, 225km",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612cfe052780f919b41bcfa7"
+  },
+  "name": "Bajs",
+  "surname": "Osmi",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Cycling",
+  "disciplines": [
+    {
+      "discipline_name": "Dirt road race, 225km",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612cfe082780f919b41bcfa8"
+  },
+  "name": "Bajs",
+  "surname": "Deveti",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Cycling",
+  "disciplines": [
+    {
+      "discipline_name": "Dirt road race, 225km",
+      "medal": ""
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d0f76123c87361032dad8"
+  },
+  "name": "Trkacica",
+  "surname": "Jedan",
+  "nation": "Azerbaijan",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": "bronze"
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d0f79123c87361032dad9"
+  },
+  "name": "Trkacica",
+  "surname": "Dva",
+  "nation": "Azerbaijan",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": "gold"
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d0f7d123c87361032dada"
+  },
+  "name": "Trkacica",
+  "surname": "Tri",
+  "nation": "Azerbaijan",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d0f81123c87361032dadb"
+  },
+  "name": "Trkacica",
+  "surname": "Cetri",
+  "nation": "Azerbaijan",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": "silver"
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d0f86123c87361032dadc"
+  },
+  "name": "Trkacica",
+  "surname": "Pet",
+  "nation": "Azerbaijan",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d0f89123c87361032dadd"
+  },
+  "name": "Trkacica",
+  "surname": "Sest",
+  "nation": "Azerbaijan",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d0f8c123c87361032dade"
+  },
+  "name": "Trkacica",
+  "surname": "Sedam",
+  "nation": "Azerbaijan",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d0f90123c87361032dadf"
+  },
+  "name": "Trkacica",
+  "surname": "Osam",
+  "nation": "Azerbaijan",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d0f93123c87361032dae0"
+  },
+  "name": "Trkacica",
+  "surname": "Devet",
+  "nation": "Azerbaijan",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d2e582e87742e60b56d37"
+  },
+  "name": "Bacac",
+  "surname": "Jedan",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Ball throwing",
+      "medal": "bronze"
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d2e5c2e87742e60b56d38"
+  },
+  "name": "Bacac",
+  "surname": "Dva",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Ball throwing",
+      "medal": "gold"
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d2e5f2e87742e60b56d39"
+  },
+  "name": "Bacac",
+  "surname": "Tri",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Ball throwing",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d2e622e87742e60b56d3a"
+  },
+  "name": "Bacac",
+  "surname": "Cetri",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Ball throwing",
+      "medal": "silver"
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d2e652e87742e60b56d3b"
+  },
+  "name": "Bacac",
+  "surname": "Pet",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Ball throwing",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d2e682e87742e60b56d3c"
+  },
+  "name": "Bacac",
+  "surname": "Sest",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Ball throwing",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d2e6b2e87742e60b56d3d"
+  },
+  "name": "Bacac",
+  "surname": "Sedam",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Ball throwing",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d2e702e87742e60b56d3e"
+  },
+  "name": "Bacac",
+  "surname": "OsAM",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Ball throwing",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d2e732e87742e60b56d3f"
+  },
+  "name": "Bacac",
+  "surname": "Devet",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Ball throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d3f9d53c10003e0ea58d9"
+  },
+  "name": "NaOsamsto",
+  "surname": "Prvi",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 800m",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d3fa153c10003e0ea58da"
+  },
+  "name": "NaOsamsto",
+  "surname": "Drugi",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 800m",
+      "medal": "silver"
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d3fa653c10003e0ea58db"
+  },
+  "name": "NaOsamsto",
+  "surname": "Treci",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 800m",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d3fab53c10003e0ea58dc"
+  },
+  "name": "NaOsamsto",
+  "surname": "Cetvrti",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 800m",
+      "medal": "gold"
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d3faf53c10003e0ea58dd"
+  },
+  "name": "NaOsamsto",
+  "surname": "Peti",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 800m",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d3fb553c10003e0ea58de"
+  },
+  "name": "NaOsamsto",
+  "surname": "Sesti",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 800m",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d3fb953c10003e0ea58df"
+  },
+  "name": "NaOsamsto",
+  "surname": "Sedmi",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 800m",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612d3fbd53c10003e0ea58e0"
+  },
+  "name": "NaOsamsto",
+  "surname": "Osmi",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 800m",
+      "medal": "bronze"
+    }
+  ],
+  "medals": true,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "612e133b7c9fd9225c99cf74"
+  },
+  "name": "Teniser",
+  "surname": "Jedan",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Tennis",
+  "disciplines": [
+    {
+      "discipline_name": "Single",
+      "medal": "silver"
+    }
+  ],
+  "medals": true,
+  "carrier": 1
+},{
+  "_id": {
+    "$oid": "612e13437c9fd9225c99cf75"
+  },
+  "name": "Teniser",
+  "surname": "Dva",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Tennis",
+  "disciplines": [
+    {
+      "discipline_name": "Single",
+      "medal": "gold"
+    }
+  ],
+  "medals": true,
+  "carrier": 2
+},{
+  "_id": {
+    "$oid": "612e13497c9fd9225c99cf76"
+  },
+  "name": "Teniser",
+  "surname": "Tri",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Tennis",
+  "disciplines": [
+    {
+      "discipline_name": "Single",
+      "medal": "none"
+    }
+  ],
+  "medals": true,
+  "carrier": 3
+},{
+  "_id": {
+    "$oid": "612e164af5e45d25d0284750"
+  },
+  "name": "Teniser",
+  "surname": "Cetri",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Tennis",
+  "disciplines": [
+    {
+      "discipline_name": "Single",
+      "medal": "none"
+    }
+  ],
+  "medals": true,
+  "carrier": 4
+},{
+  "_id": {
+    "$oid": "612e1716f5e45d25d0284752"
+  },
+  "name": "Teniser",
+  "surname": "Pet",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Tennis",
+  "disciplines": [
+    {
+      "discipline_name": "Single",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 5
+},{
+  "_id": {
+    "$oid": "612e171df5e45d25d0284753"
+  },
+  "name": "Teniser",
+  "surname": "Sest",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Tennis",
+  "disciplines": [
+    {
+      "discipline_name": "Single",
+      "medal": "none"
+    }
+  ],
+  "medals": true,
+  "carrier": 6
+},{
+  "_id": {
+    "$oid": "612e1722f5e45d25d0284754"
+  },
+  "name": "Teniser",
+  "surname": "Sedam",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Tennis",
+  "disciplines": [
+    {
+      "discipline_name": "Single",
+      "medal": "bronze"
+    }
+  ],
+  "medals": true,
+  "carrier": 7
+},{
+  "_id": {
+    "$oid": "612e1729f5e45d25d0284755"
+  },
+  "name": "Teniser",
+  "surname": "Osam",
+  "nation": "Azerbaijan",
+  "gender": "male",
+  "sport": "Tennis",
+  "disciplines": [
+    {
+      "discipline_name": "Single",
+      "medal": "none"
+    }
+  ],
+  "medals": false,
+  "carrier": 8
+},{
+  "_id": {
+    "$oid": "6131513c5eb98622bc286518"
+  },
+  "name": "John",
+  "surname": "Doe",
+  "nation": "United Kingdom",
+  "gender": "male",
+  "sport": "Swimming",
+  "disciplines": [
+    {
+      "discipline_name": "Butterfly, 100m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6131513c5eb98622bc286519"
+  },
+  "name": "Jonjo",
+  "surname": "Shelvey",
+  "nation": "United Kingdom",
+  "gender": "male",
+  "sport": "Swimming",
+  "disciplines": [
+    {
+      "discipline_name": "Butterfly, 100m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134dca3f223401d50a2e002"
+  },
+  "name": "Anita",
+  "surname": "Wlodarczyk",
+  "nation": "Poland",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Hammer throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134dcb8f223401d50a2e003"
+  },
+  "name": "Malwina",
+  "surname": "Kopron",
+  "nation": "Poland",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Hammer throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134dd92f223401d50a2e004"
+  },
+  "name": "Wojciech",
+  "surname": "Nowicki",
+  "nation": "Poland",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Hammer throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134dda8f223401d50a2e005"
+  },
+  "name": "Pawek",
+  "surname": "Fajdek",
+  "nation": "Poland",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Hammer throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134de02f223401d50a2e006"
+  },
+  "name": "Patryk",
+  "surname": "Dobek",
+  "nation": "Poland",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134de6ff223401d50a2e007"
+  },
+  "name": "Dawid",
+  "surname": "Tomala",
+  "nation": "Poland",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Fast walking, 20km",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Fast walking, 50km",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134dfb9f223401d50a2e008"
+  },
+  "name": "Maria",
+  "surname": "Andrejczyk",
+  "nation": "Poland",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Spear throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e002f223401d50a2e009"
+  },
+  "name": "Piotr",
+  "surname": "Lisek",
+  "nation": "Poland",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Pole vault",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e0daf223401d50a2e00c"
+  },
+  "name": "Deanna",
+  "surname": "Price",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Hammer throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e0e9f223401d50a2e00d"
+  },
+  "name": "Brooke",
+  "surname": "Andersen",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Hammer throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e165f223401d50a2e00e"
+  },
+  "name": "Gwen",
+  "surname": "Berry",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Hammer throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e195f223401d50a2e00f"
+  },
+  "name": "Athing",
+  "surname": "Mu",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 800m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e1aef223401d50a2e010"
+  },
+  "name": "Raevyn",
+  "surname": "Rogers",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 800m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e1cef223401d50a2e011"
+  },
+  "name": "Gabrielle",
+  "surname": "Thomas",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e1e7f223401d50a2e012"
+  },
+  "name": "Rudy",
+  "surname": "Winkler",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Hammer throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e1faf223401d50a2e013"
+  },
+  "name": "Daniel",
+  "surname": "Haugh",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Hammer throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e21ff223401d50a2e014"
+  },
+  "name": "Clayton",
+  "surname": "Murphy",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e270f223401d50a2e015"
+  },
+  "name": "Kenneth",
+  "surname": "Bendarek",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e27ff223401d50a2e016"
+  },
+  "name": "Noah",
+  "surname": "Lyles",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e295f223401d50a2e017"
+  },
+  "name": "Erryion",
+  "surname": "Knighton",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e2baf223401d50a2e018"
+  },
+  "name": "Will",
+  "surname": "Clay",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Triple jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e2cdf223401d50a2e019"
+  },
+  "name": "Donald",
+  "surname": "Scott",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Triple jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e2f2f223401d50a2e01a"
+  },
+  "name": "Katie",
+  "surname": "Nageotte",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Pole vault",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e30ff223401d50a2e01b"
+  },
+  "name": "Michael",
+  "surname": "Cherry",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e314f223401d50a2e01c"
+  },
+  "name": "Michael",
+  "surname": "Norman",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e335f223401d50a2e01d"
+  },
+  "name": "Maggie",
+  "surname": "Malone",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Spear throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e369f223401d50a2e01e"
+  },
+  "name": "Paul",
+  "surname": "Chelimo",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 5000m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e379f223401d50a2e01f"
+  },
+  "name": "Grant",
+  "surname": "Fisher",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 5000m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e395f223401d50a2e020"
+  },
+  "name": "Allyson",
+  "surname": "Felix",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e3a1f223401d50a2e021"
+  },
+  "name": "Quanera",
+  "surname": "Hayes",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e3b6f223401d50a2e022"
+  },
+  "name": "Molly",
+  "surname": "Seidel",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Marathon",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e3d7f223401d50a2e023"
+  },
+  "name": "Vashti",
+  "surname": "Cunningham",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "High jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e3fcf223401d50a2e024"
+  },
+  "name": "Galen",
+  "surname": "Rupp",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Marathon",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e428f223401d50a2e025"
+  },
+  "name": "Juvaughn",
+  "surname": "Harrison",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "High jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e7d9f223401d50a2e026"
+  },
+  "name": "Orji",
+  "surname": "Keturah",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Triple jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e7f6f223401d50a2e027"
+  },
+  "name": "Fred",
+  "surname": "Kerley",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e800f223401d50a2e028"
+  },
+  "name": "Ronnie",
+  "surname": "Baker",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e82ff223401d50a2e029"
+  },
+  "name": "Valarie",
+  "surname": "Allman",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Disc throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e866f223401d50a2e02a"
+  },
+  "name": "Brittney",
+  "surname": "Reese",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Long jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e86ef223401d50a2e02b"
+  },
+  "name": "Tara",
+  "surname": "Davids",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Long jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e88af223401d50a2e02c"
+  },
+  "name": "Christopher",
+  "surname": "Nielsen",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Pole vault",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e89af223401d50a2e02d"
+  },
+  "name": "Kc",
+  "surname": "Lightfoot",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Pole vault",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e8c9f223401d50a2e02e"
+  },
+  "name": "Sam",
+  "surname": "Mattis",
+  "nation": "United States of America",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Disc throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134e8ebf223401d50a2e02f"
+  },
+  "name": "Teahna",
+  "surname": "Daniels",
+  "nation": "United States of America",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 800m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134eb03f223401d50a2e032"
+  },
+  "name": "Zheng",
+  "surname": "Wang",
+  "nation": "China",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Hammer throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134eb1af223401d50a2e033"
+  },
+  "name": "Chunyu",
+  "surname": "Wang",
+  "nation": "China",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 800m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134eb41f223401d50a2e034"
+  },
+  "name": "Yaming",
+  "surname": "Zhu",
+  "nation": "China",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Triple jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134eb53f223401d50a2e035"
+  },
+  "name": "Yaoqing",
+  "surname": "Fang",
+  "nation": "China",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Triple jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134eb6df223401d50a2e036"
+  },
+  "name": "Kaihua",
+  "surname": "Wang",
+  "nation": "China",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Fast walking, 20km",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Fast walking, 50km",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134eb7af223401d50a2e037"
+  },
+  "name": "Jun",
+  "surname": "Zhang",
+  "nation": "China",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Fast walking, 20km",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Fast walking, 50km",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134eb96f223401d50a2e038"
+  },
+  "name": "Huiqin",
+  "surname": "Xhu",
+  "nation": "China",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Pole vault",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134ebb3f223401d50a2e039"
+  },
+  "name": "Tongda",
+  "surname": "Bian",
+  "nation": "China",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Fast walking, 20km",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Fast walking, 50km",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134ebd5f223401d50a2e03a"
+  },
+  "name": "Hong",
+  "surname": "Liu",
+  "nation": "China",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Fast walking, 20km",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Fast walking, 50km",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134ebfff223401d50a2e03b"
+  },
+  "name": "Shijie",
+  "surname": "Qieyang",
+  "nation": "China",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Fast walking, 20km",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Fast walking, 50km",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134ec19f223401d50a2e03c"
+  },
+  "name": "Shiying",
+  "surname": "Liu",
+  "nation": "China",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Spear throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134ec2ef223401d50a2e03d"
+  },
+  "name": "Huihui",
+  "surname": "Lyu",
+  "nation": "China",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Spear throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134edccf223401d50a2e040"
+  },
+  "name": "Camryn",
+  "surname": "Rogers",
+  "nation": "Canada",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Hammer throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134edf7f223401d50a2e041"
+  },
+  "name": "Andre",
+  "surname": "De Grasse",
+  "nation": "Canada",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134ee0ef223401d50a2e042"
+  },
+  "name": "Aaron",
+  "surname": "Brown",
+  "nation": "Canada",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134ee31f223401d50a2e043"
+  },
+  "name": "Anicka",
+  "surname": "Newell",
+  "nation": "Canada",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Pole vault",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134ee50f223401d50a2e044"
+  },
+  "name": "Evan",
+  "surname": "Dunfee",
+  "nation": "Canada",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Fast walking, 20km",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Fast walking, 50km",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134ee6ff223401d50a2e045"
+  },
+  "name": "Mohammed",
+  "surname": "Ahmed",
+  "nation": "Canada",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 10000m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 5000m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134ee85f223401d50a2e046"
+  },
+  "name": "Justyn",
+  "surname": "Knight",
+  "nation": "Canada",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 10000m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 5000m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134eeb7f223401d50a2e047"
+  },
+  "name": "Malindi",
+  "surname": "Ellmore",
+  "nation": "Canada",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Marathon",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134ef6ff223401d50a2e048"
+  },
+  "name": "Keely",
+  "surname": "Hodgkinson",
+  "nation": "United Kingdom",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 800m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134efa0f223401d50a2e049"
+  },
+  "name": "Alexandra",
+  "surname": "Bell",
+  "nation": "United Kingdom",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 800m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134efccf223401d50a2e04a"
+  },
+  "name": "Callum",
+  "surname": "Wilkinson",
+  "nation": "United Kingdom",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Fast walking, 20km",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Fast walking, 50km",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134efe6f223401d50a2e04b"
+  },
+  "name": "Holly",
+  "surname": "Bradshaw",
+  "nation": "United Kingdom",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Pole vault",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f00ef223401d50a2e04c"
+  },
+  "name": "Andrew",
+  "surname": "Butchart",
+  "nation": "United Kingdom",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 10000m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 5000m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f040f223401d50a2e04d"
+  },
+  "name": "Jodie",
+  "surname": "Williams",
+  "nation": "United Kingdom",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 800m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f07ef223401d50a2e04e"
+  },
+  "name": "Morgan",
+  "surname": "Lake",
+  "nation": "United Kingdom",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "High jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f0a5f223401d50a2e04f"
+  },
+  "name": "Eilish",
+  "surname": "McColgan",
+  "nation": "United Kingdom",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 10000m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 5000m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f0f6f223401d50a2e050"
+  },
+  "name": "Zharnel",
+  "surname": "Hughes",
+  "nation": "United Kingdom",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f116f223401d50a2e051"
+  },
+  "name": "Tom",
+  "surname": "Gale",
+  "nation": "United Kingdom",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "High jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f140f223401d50a2e052"
+  },
+  "name": "Jazmin",
+  "surname": "Sawyers",
+  "nation": "United Kingdom",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Long jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f166f223401d50a2e053"
+  },
+  "name": "Harry",
+  "surname": "Coppel",
+  "nation": "United Kingdom",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Pole vault",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f18ff223401d50a2e054"
+  },
+  "name": "Daryll",
+  "surname": "Neita",
+  "nation": "United Kingdom",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 800m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f81ff223401d50a2e057"
+  },
+  "name": "Elaine",
+  "surname": "Thompson-Herah",
+  "nation": "Jamaica",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 800m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f832f223401d50a2e058"
+  },
+  "name": "Shelly-Ann",
+  "surname": "Fraser-Pryce",
+  "nation": "Jamaica",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 800m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f83ff223401d50a2e059"
+  },
+  "name": "Shericka",
+  "surname": "Jackson",
+  "nation": "Jamaica",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 800m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f853f223401d50a2e05a"
+  },
+  "name": "Chad",
+  "surname": "Wright",
+  "nation": "Jamaica",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Disc throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f879f223401d50a2e05b"
+  },
+  "name": "Shadae",
+  "surname": "Lawrence",
+  "nation": "Jamaica",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Disc throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f88ff223401d50a2e05c"
+  },
+  "name": "Tajay",
+  "surname": "Gale",
+  "nation": "Jamaica",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Long jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f8d5f223401d50a2e05d"
+  },
+  "name": "Kimberly",
+  "surname": "Williams",
+  "nation": "Jamaica",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Triple jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f8eaf223401d50a2e05e"
+  },
+  "name": "Shanieka",
+  "surname": "Ricketts",
+  "nation": "Jamaica",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Triple jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f92cf223401d50a2e05f"
+  },
+  "name": "Stephenie Ann",
+  "surname": "McPherson",
+  "nation": "Jamaica",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 800m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f93df223401d50a2e060"
+  },
+  "name": "Candice",
+  "surname": "McLeod",
+  "nation": "Jamaica",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 800m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f980f223401d50a2e061"
+  },
+  "name": "Christopher",
+  "surname": "Taylor",
+  "nation": "Jamaica",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f99af223401d50a2e062"
+  },
+  "name": "Rasheed",
+  "surname": "Dwyer",
+  "nation": "Jamaica",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134f9aff223401d50a2e063"
+  },
+  "name": "Natoya",
+  "surname": "Goule",
+  "nation": "Jamaica",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 800m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134fd39f223401d50a2e066"
+  },
+  "name": "Matthew",
+  "surname": "Denny",
+  "nation": "Australia",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Disc throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134fd91f223401d50a2e067"
+  },
+  "name": "Brooke",
+  "surname": "Stratton",
+  "nation": "Australia",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Long jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134fdc4f223401d50a2e068"
+  },
+  "name": "Brandon",
+  "surname": "Starc",
+  "nation": "Australia",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "High jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134fdf4f223401d50a2e069"
+  },
+  "name": "Hamish",
+  "surname": "Kerr",
+  "nation": "Australia",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "High jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134fe39f223401d50a2e06a"
+  },
+  "name": "Nicola",
+  "surname": "McDermott",
+  "nation": "Australia",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "High jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134fe47f223401d50a2e06b"
+  },
+  "name": "Eleanor",
+  "surname": "Patterson",
+  "nation": "Australia",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "High jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134fe5cf223401d50a2e06c"
+  },
+  "name": "Sinead",
+  "surname": "Diver",
+  "nation": "Australia",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Marathon",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134fe7bf223401d50a2e06d"
+  },
+  "name": "Kelsey-Lee",
+  "surname": "Barber",
+  "nation": "Australia",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Spear throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134fe8df223401d50a2e06e"
+  },
+  "name": "Mackenzie",
+  "surname": "Little",
+  "nation": "Australia",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Spear throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134feabf223401d50a2e06f"
+  },
+  "name": "Kathryin",
+  "surname": "Mitchell",
+  "nation": "Australia",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Spear throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134fec2f223401d50a2e070"
+  },
+  "name": "Jemina",
+  "surname": "Montag",
+  "nation": "Australia",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Fast walking, 20km",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Fast walking, 50km",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6134feeff223401d50a2e071"
+  },
+  "name": "Rhydian",
+  "surname": "Cowley",
+  "nation": "Australia",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Fast walking, 20km",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Fast walking, 50km",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61350021f223401d50a2e072"
+  },
+  "name": "Peter",
+  "surname": "Bol",
+  "nation": "Australia",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61350044f223401d50a2e073"
+  },
+  "name": "Julia",
+  "surname": "Ratcliffe",
+  "nation": "Australia",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Hammer throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "613500eff223401d50a2e076"
+  },
+  "name": "Daniel",
+  "surname": "Jasinski",
+  "nation": "Germany",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Disc throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61350101f223401d50a2e077"
+  },
+  "name": "Clemens",
+  "surname": "Prufer",
+  "nation": "Germany",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Disc throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6135011ff223401d50a2e078"
+  },
+  "name": "Oleg",
+  "surname": "Zerinkel",
+  "nation": "Germany",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Pole vault",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6135013df223401d50a2e079"
+  },
+  "name": "Bo Kanda",
+  "surname": "Lita Baehre",
+  "nation": "Germany",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Pole vault",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61350156f223401d50a2e07a"
+  },
+  "name": "Malaika",
+  "surname": "Mihambo",
+  "nation": "Germany",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Long jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6135016cf223401d50a2e07b"
+  },
+  "name": "Kristin",
+  "surname": "Pudenz",
+  "nation": "Germany",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Disc throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6135017df223401d50a2e07c"
+  },
+  "name": "Claudine",
+  "surname": "Vita",
+  "nation": "Germany",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Disc throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6135018df223401d50a2e07d"
+  },
+  "name": "Marike",
+  "surname": "Steinacker",
+  "nation": "Germany",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Disc throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "613501a5f223401d50a2e07e"
+  },
+  "name": "Fabien",
+  "surname": "Heinle",
+  "nation": "Germany",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Long jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "613501c4f223401d50a2e07f"
+  },
+  "name": "Julian",
+  "surname": "Weber",
+  "nation": "Germany",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Spear throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "613501dcf223401d50a2e080"
+  },
+  "name": "Johannes",
+  "surname": "Vetter",
+  "nation": "Germany",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Spear throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61350203f223401d50a2e081"
+  },
+  "name": "Konstanze",
+  "surname": "Klosterhalfen",
+  "nation": "Germany",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 10000m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 5000m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61350233f223401d50a2e082"
+  },
+  "name": "Marie-Laurence",
+  "surname": "Jungfleisch",
+  "nation": "Germany",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "High jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61350270f223401d50a2e083"
+  },
+  "name": "Melat Yisak",
+  "surname": "Kejeta",
+  "nation": "Germany",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Marathon",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61350289f223401d50a2e084"
+  },
+  "name": "Christin",
+  "surname": "Hussong",
+  "nation": "Germany",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Spear throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "613502aef223401d50a2e085"
+  },
+  "name": "Jonathan",
+  "surname": "Hilbert",
+  "nation": "Germany",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Fast walking, 20km",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Fast walking, 50km",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "613502c4f223401d50a2e086"
+  },
+  "name": "Christopher",
+  "surname": "Linke",
+  "nation": "Germany",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Fast walking, 20km",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Fast walking, 50km",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "613503eaf223401d50a2e089"
+  },
+  "name": "Yemaneberhan",
+  "surname": "Crippa",
+  "nation": "Italy",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 10000m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 5000m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61350409f223401d50a2e08a"
+  },
+  "name": "Nadia",
+  "surname": "Battocletti",
+  "nation": "Italy",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 10000m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 5000m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61350421f223401d50a2e08b"
+  },
+  "name": "Daisy",
+  "surname": "Osakue",
+  "nation": "Italy",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Disc throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6135043af223401d50a2e08c"
+  },
+  "name": "Filippo",
+  "surname": "Randazo",
+  "nation": "Italy",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Long jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61350460f223401d50a2e08d"
+  },
+  "name": "Lamont Marcell",
+  "surname": "Jacobs",
+  "nation": "Italy",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Running, 100m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 200m",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Running, 400m",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6135048df223401d50a2e08e"
+  },
+  "name": "Gianmarco",
+  "surname": "Tamberi",
+  "nation": "Italy",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "High jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "613504baf223401d50a2e08f"
+  },
+  "name": "Antonella",
+  "surname": "Palmisano",
+  "nation": "Italy",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Fast walking, 20km",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Fast walking, 50km",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "613504e0f223401d50a2e090"
+  },
+  "name": "Massimo",
+  "surname": "Stano",
+  "nation": "Italy",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Fast walking, 20km",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Fast walking, 50km",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "613504f3f223401d50a2e091"
+  },
+  "name": "Francesco",
+  "surname": "Fortunato",
+  "nation": "Italy",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Fast walking, 20km",
+      "medal": ""
+    },
+    {
+      "discipline_name": "Fast walking, 50km",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "6135050bf223401d50a2e092"
+  },
+  "name": "Andrea",
+  "surname": "Dallavalle",
+  "nation": "Italy",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Triple jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61350522f223401d50a2e093"
+  },
+  "name": "Emanuel",
+  "surname": "Ihemeje",
+  "nation": "Italy",
+  "gender": "male",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Triple jump",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+},{
+  "_id": {
+    "$oid": "61350541f223401d50a2e094"
+  },
+  "name": "Sara",
+  "surname": "Fantini",
+  "nation": "Italy",
+  "gender": "female",
+  "sport": "Athletics",
+  "disciplines": [
+    {
+      "discipline_name": "Hammer throwing",
+      "medal": ""
+    }
+  ],
+  "medals": false,
+  "carrier": 0
+}]

@@ -1,0 +1,1303 @@
+[{
+  "_id": {
+    "$oid": "611ba22cc185ba51d70b369e"
+  },
+  "name": "Argentina",
+  "short_name": "ARG",
+  "flag": "ARG.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba240c185ba51d70b36b1"
+  },
+  "name": "Armenia",
+  "short_name": "ARM",
+  "flag": "ARM.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba24fc185ba51d70b36b7"
+  },
+  "name": "Australia",
+  "short_name": "AUS",
+  "flag": "AUS.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 14,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba25ec185ba51d70b36bd"
+  },
+  "name": "Austria",
+  "short_name": "AUT",
+  "flag": "AUT.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba28cc185ba51d70b36d2"
+  },
+  "name": "Azerbaijan",
+  "short_name": "AZE",
+  "flag": "AZE.png",
+  "gold_cnt": 20,
+  "silver_cnt": 20,
+  "bronze_cnt": 20,
+  "overall": 60,
+  "athlete_cnt": 44,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba2b0c185ba51d70b36e1"
+  },
+  "name": "The Bahamas",
+  "short_name": "BAH",
+  "flag": "BAH.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba2f2c185ba51d70b36fd"
+  },
+  "name": "Belgium",
+  "short_name": "BEL",
+  "flag": "BEL.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba31cc185ba51d70b3713"
+  },
+  "name": "Bermuda",
+  "short_name": "BER",
+  "flag": "BER.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba33fc185ba51d70b3723"
+  },
+  "name": "Belarus",
+  "short_name": "BLR",
+  "flag": "BLR.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba362c185ba51d70b372f"
+  },
+  "name": "Botswana",
+  "short_name": "BOT",
+  "flag": "BOT.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba38cc185ba51d70b373f"
+  },
+  "name": "Brazil",
+  "short_name": "BRA",
+  "flag": "BRA.png",
+  "gold_cnt": 3,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 3,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba54dc185ba51d70b37d0"
+  },
+  "name": "Bahrain",
+  "short_name": "BRN",
+  "flag": "BRN.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba56cc185ba51d70b37e6"
+  },
+  "name": "Bulgaria",
+  "short_name": "BUL",
+  "flag": "BUL.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba58dc185ba51d70b37f6"
+  },
+  "name": "Burkina Faso",
+  "short_name": "BUR",
+  "flag": "BUR.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba5a2c185ba51d70b37ff"
+  },
+  "name": "Canada",
+  "short_name": "CAN",
+  "flag": "CAN.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 8,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba5d2c185ba51d70b3814"
+  },
+  "name": "China",
+  "short_name": "CHN",
+  "flag": "CHN.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 12,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba5fbc185ba51d70b3821"
+  },
+  "name": "Ivory Coast",
+  "short_name": "CIV",
+  "flag": "CIV.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba60fc185ba51d70b383b"
+  },
+  "name": "Colombia",
+  "short_name": "COL",
+  "flag": "COL.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba61cc185ba51d70b3841"
+  },
+  "name": "Croatia",
+  "short_name": "CRO",
+  "flag": "CRO.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba63bc185ba51d70b3857"
+  },
+  "name": "Cuba",
+  "short_name": "CUB",
+  "flag": "CUB.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba64bc185ba51d70b3863"
+  },
+  "name": "Czech Republic",
+  "short_name": "CZE",
+  "flag": "CZE.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "611ba65bc185ba51d70b3869"
+  },
+  "name": "Denmark",
+  "short_name": "DEN",
+  "flag": "DEN.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127bd447086787fbd8384fb"
+  },
+  "name": "Dominican Republic",
+  "short_name": "DOM",
+  "flag": "DOM.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127bd587086787fbd838505"
+  },
+  "name": "Ecuador",
+  "short_name": "ECU",
+  "flag": "ECU.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127bdcd7086787fbd838526"
+  },
+  "name": "Egypt",
+  "short_name": "EGY",
+  "flag": "EGY.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127bddd7086787fbd838530"
+  },
+  "name": "Spain",
+  "short_name": "ESP",
+  "flag": "ESP.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127bdf47086787fbd838538"
+  },
+  "name": "Estonia",
+  "short_name": "EST",
+  "flag": "EST.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127be037086787fbd83853e"
+  },
+  "name": "Ethiopia",
+  "short_name": "ETH",
+  "flag": "ETH.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127be307086787fbd83854f"
+  },
+  "name": "Fiji",
+  "short_name": "FIJ",
+  "flag": "FIJ.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127be457086787fbd838556"
+  },
+  "name": "Finland",
+  "short_name": "FIN",
+  "flag": "FIN.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127be5a7086787fbd838567"
+  },
+  "name": "France",
+  "short_name": "FRA",
+  "flag": "FRA.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127be9e7086787fbd83857b"
+  },
+  "name": "United Kingdom",
+  "short_name": "GBR",
+  "flag": "GBR.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 15,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127bead7086787fbd838581"
+  },
+  "name": "Georgia",
+  "short_name": "GEO",
+  "flag": "GEO.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127beec7086787fbd838595"
+  },
+  "name": "Germany",
+  "short_name": "GER",
+  "flag": "GER.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 17,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127bf047086787fbd8385a2"
+  },
+  "name": "Ghana",
+  "short_name": "GHA",
+  "flag": "GHA.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127bf197086787fbd8385a9"
+  },
+  "name": "Greece",
+  "short_name": "GRE",
+  "flag": "GRE.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127bf597086787fbd8385bd"
+  },
+  "name": "Grenada",
+  "short_name": "GRN",
+  "flag": "GRN.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127bf797086787fbd8385ca"
+  },
+  "name": "Hong Kong",
+  "short_name": "HKG",
+  "flag": "HKG.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127bf887086787fbd8385d4"
+  },
+  "name": "Hungary",
+  "short_name": "HUN",
+  "flag": "HUN.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127bfb07086787fbd8385e1"
+  },
+  "name": "Indonesia",
+  "short_name": "INA",
+  "flag": "INA.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127bfbe7086787fbd8385e9"
+  },
+  "name": "India",
+  "short_name": "IND",
+  "flag": "IND.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c0017086787fbd8385fd"
+  },
+  "name": "Iran",
+  "short_name": "IRI",
+  "flag": "IRI.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c0187086787fbd83860e"
+  },
+  "name": "Republic of Ireland",
+  "short_name": "IRL",
+  "flag": "IRL.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c0297086787fbd838616"
+  },
+  "name": "Israel",
+  "short_name": "ISR",
+  "flag": "ISR.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c0357086787fbd83861e"
+  },
+  "name": "Italy",
+  "short_name": "ITA",
+  "flag": "ITA.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 12,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c04c7086787fbd838626"
+  },
+  "name": "Jamaica",
+  "short_name": "JAM",
+  "flag": "JAM.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 13,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c0587086787fbd83862c"
+  },
+  "name": "Jordan",
+  "short_name": "JOR",
+  "flag": "JOR.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c0667086787fbd838633"
+  },
+  "name": "Japan",
+  "short_name": "JPN",
+  "flag": "JPN.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c0807086787fbd83863d"
+  },
+  "name": "Saudi Arabia",
+  "short_name": "KSA",
+  "flag": "KSA.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c09b7086787fbd838646"
+  },
+  "name": "Kuwait",
+  "short_name": "KUW",
+  "flag": "KUW.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c0d07086787fbd83865d"
+  },
+  "name": "Kazahstan",
+  "short_name": "KAZ",
+  "flag": "KAZ.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c0ea7086787fbd83866a"
+  },
+  "name": "Kenya",
+  "short_name": "KEN",
+  "flag": "KEN.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c12d7086787fbd83867e"
+  },
+  "name": "Kyrgyzstan",
+  "short_name": "KGZ",
+  "flag": "KGZ.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c13e7086787fbd838684"
+  },
+  "name": "Korean Republic",
+  "short_name": "KOR",
+  "flag": "KOR.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c15a7086787fbd838691"
+  },
+  "name": "Kosovo",
+  "short_name": "KOS",
+  "flag": "KOS.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c1687086787fbd838697"
+  },
+  "name": "Latvia",
+  "short_name": "LAT",
+  "flag": "LAT.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c1777086787fbd83869d"
+  },
+  "name": "Lithuania",
+  "short_name": "LTU",
+  "flag": "LTU.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c1947086787fbd8386aa"
+  },
+  "name": "Morocco",
+  "short_name": "MAR",
+  "flag": "MAR.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c1ba7086787fbd8386b4"
+  },
+  "name": "Malaysia",
+  "short_name": "MAS",
+  "flag": "MAS.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c1c97086787fbd8386ba"
+  },
+  "name": "Moldavia",
+  "short_name": "MDA",
+  "flag": "MDA.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c1d97086787fbd8386c9"
+  },
+  "name": "Mexico",
+  "short_name": "MEX",
+  "flag": "MEX.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c1f37086787fbd8386d1"
+  },
+  "name": "Mongolia",
+  "short_name": "MGL",
+  "flag": "MGL.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c20e7086787fbd8386dd"
+  },
+  "name": "North Macedonia",
+  "short_name": "MKD",
+  "flag": "MKD.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c2297086787fbd8386e5"
+  },
+  "name": "Namibia",
+  "short_name": "NAM",
+  "flag": "NAM.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c23b7086787fbd8386ec"
+  },
+  "name": "Netherlands",
+  "short_name": "NED",
+  "flag": "NED.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c2477086787fbd8386f5"
+  },
+  "name": "Nigeria",
+  "short_name": "NGR",
+  "flag": "NGR.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c2587086787fbd8386fc"
+  },
+  "name": "Norway",
+  "short_name": "NOR",
+  "flag": "NOR.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c2777086787fbd838705"
+  },
+  "name": "New Zealand",
+  "short_name": "NZL",
+  "flag": "NZL.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c2987086787fbd838713"
+  },
+  "name": "Philippines",
+  "short_name": "PHI",
+  "flag": "PHI.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c2a77086787fbd838719"
+  },
+  "name": "Poland",
+  "short_name": "POL",
+  "flag": "POL.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 8,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c2b37086787fbd83871e"
+  },
+  "name": "Portugal",
+  "short_name": "POR",
+  "flag": "POR.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c3117086787fbd838740"
+  },
+  "name": "Puerto Rico",
+  "short_name": "PUR",
+  "flag": "PUR.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c3277086787fbd838747"
+  },
+  "name": "Qatar",
+  "short_name": "QAT",
+  "flag": "QAT.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c33c7086787fbd838752"
+  },
+  "name": "Russia",
+  "short_name": "ROC",
+  "flag": "ROC.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c34e7086787fbd838759"
+  },
+  "name": "Romania",
+  "short_name": "ROU",
+  "flag": "ROU.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c3697086787fbd838761"
+  },
+  "name": "South Africa",
+  "short_name": "RSA",
+  "flag": "RSA.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c3787086787fbd83876b"
+  },
+  "name": "Slovenia",
+  "short_name": "SLO",
+  "flag": "SLO.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c38b7086787fbd838772"
+  },
+  "name": "San Marino",
+  "short_name": "SMR",
+  "flag": "SMR.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c44d7086787fbd8387ac"
+  },
+  "name": "Serbia",
+  "short_name": "SRB",
+  "flag": "SRB.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c45d7086787fbd8387b2"
+  },
+  "name": "Switzerland",
+  "short_name": "SUI",
+  "flag": "SUI.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c46b7086787fbd8387bc"
+  },
+  "name": "Slovakia",
+  "short_name": "SVK",
+  "flag": "SVK.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c47c7086787fbd8387c2"
+  },
+  "name": "Sweeden",
+  "short_name": "SWE",
+  "flag": "SWE.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c4907086787fbd8387c9"
+  },
+  "name": "Syria",
+  "short_name": "SYR",
+  "flag": "SYR.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c4a27086787fbd8387d4"
+  },
+  "name": "Thailand",
+  "short_name": "THA",
+  "flag": "THA.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c4bc7086787fbd8387dc"
+  },
+  "name": "Turkmenistan",
+  "short_name": "TKM",
+  "flag": "TKM.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c4e57086787fbd8387eb"
+  },
+  "name": "Chinese Taipei",
+  "short_name": "TPE",
+  "flag": "TPE.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c4fb7086787fbd8387f3"
+  },
+  "name": "Tunisia",
+  "short_name": "TUN",
+  "flag": "TUN.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c5087086787fbd8387f8"
+  },
+  "name": "Turkey",
+  "short_name": "TUR",
+  "flag": "TUR.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c5167086787fbd838802"
+  },
+  "name": "Uganda",
+  "short_name": "UGA",
+  "flag": "UGA.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c5217086787fbd838807"
+  },
+  "name": "Ukraine",
+  "short_name": "UKR",
+  "flag": "UKR.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c52f7086787fbd83880d"
+  },
+  "name": "United States of America",
+  "short_name": "USA",
+  "flag": "USA.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 36,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c53b7086787fbd838813"
+  },
+  "name": "Uzbekistan",
+  "short_name": "UZB",
+  "flag": "UZB.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+},{
+  "_id": {
+    "$oid": "6127c5487086787fbd838818"
+  },
+  "name": "Venezuela",
+  "short_name": "VEN",
+  "flag": "VEN.png",
+  "gold_cnt": 0,
+  "silver_cnt": 0,
+  "bronze_cnt": 0,
+  "overall": 0,
+  "athlete_cnt": 0,
+  "teams_cnt": 0,
+  "rank": 0
+}]

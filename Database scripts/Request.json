@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "611d5c5be174d81cec47e2d7"
+  },
+  "name": "Drazen",
+  "surname": "Draskovic",
+  "username": "Drazen",
+  "password": "123",
+  "nation": "Azerbaijan",
+  "email": "draza@gmail.com",
+  "role": "delegate",
+  "accepted": "accepted"
+},{
+  "_id": {
+    "$oid": "611d5d92e174d81cec47e2d8"
+  },
+  "name": "Djordje",
+  "surname": "Djokic",
+  "username": "djoka",
+  "password": "123",
+  "nation": "Colombia",
+  "email": "dj@gmail.com",
+  "role": "leader",
+  "accepted": "denied"
+},{
+  "_id": {
+    "$oid": "611d6045d909461bccada343"
+  },
+  "name": "Marko",
+  "surname": "Markovic",
+  "username": "mare",
+  "password": "123",
+  "nation": "Brazil",
+  "email": "mare@gmail.com",
+  "role": "leader",
+  "accepted": "accepted"
+},{
+  "_id": {
+    "$oid": "611d6078d909461bccada344"
+  },
+  "name": "Marko",
+  "surname": "Markovic",
+  "username": "mare3244",
+  "password": "123",
+  "nation": "Brazil",
+  "email": "mare22@gmail.com",
+  "role": "leader",
+  "accepted": "denied"
+},{
+  "_id": {
+    "$oid": "61296a3f4fc4b20bf889b8b1"
+  },
+  "name": "Azer",
+  "surname": "Azric",
+  "username": "azer",
+  "password": "123",
+  "nation": "Azerbaijan",
+  "email": "az@gmail.com",
+  "role": "leader",
+  "accepted": "accepted"
+},{
+  "_id": {
+    "$oid": "612cf9ec2780f919b41bcf9e"
+  },
+  "name": "Mika",
+  "surname": "Miskovic",
+  "username": "mika",
+  "password": "123",
+  "nation": "Argentina",
+  "email": "mika@gmail.com",
+  "role": "delegate",
+  "accepted": "accepted"
+},{
+  "_id": {
+    "$oid": "612d3f5a53c10003e0ea58d7"
+  },
+  "name": "Bosko",
+  "surname": "Nikolic",
+  "username": "bole",
+  "password": "123",
+  "nation": "Colombia",
+  "email": "bole@yahoo.com",
+  "role": "delegate",
+  "accepted": "accepted"
+},{
+  "_id": {
+    "$oid": "6130db5a3f367b00d030a195"
+  },
+  "name": "Brian",
+  "surname": "Maguire",
+  "username": "brian21",
+  "password": "Proba123&*",
+  "nation": "United Kingdom",
+  "email": "brian@gmail.com",
+  "role": "leader",
+  "accepted": "accepted"
+},{
+  "_id": {
+    "$oid": "6134dc01f223401d50a2e000"
+  },
+  "name": "Robert",
+  "surname": "Lewandowski",
+  "username": "lewa",
+  "password": "Proba123!@",
+  "nation": "Poland",
+  "email": "lewa@gmail.com",
+  "role": "leader",
+  "accepted": "accepted"
+},{
+  "_id": {
+    "$oid": "6134e084f223401d50a2e00a"
+  },
+  "name": "Clint",
+  "surname": "Eastwood",
+  "username": "blondie",
+  "password": "Proba123!@",
+  "nation": "United States of America",
+  "email": "colt45@gmail.com",
+  "role": "leader",
+  "accepted": "accepted"
+},{
+  "_id": {
+    "$oid": "6134eaa8f223401d50a2e030"
+  },
+  "name": "Si",
+  "surname": "Xi-Ping",
+  "username": "brat_si",
+  "password": "Proba123!@",
+  "nation": "China",
+  "email": "brat_si@gmail.com",
+  "role": "leader",
+  "accepted": "accepted"
+},{
+  "_id": {
+    "$oid": "6134eda2f223401d50a2e03e"
+  },
+  "name": "Milan",
+  "surname": "Borjan",
+  "username": "borjan",
+  "password": "Proba123!@",
+  "nation": "Canada",
+  "email": "borjan@yahoo.com",
+  "role": "leader",
+  "accepted": "accepted"
+},{
+  "_id": {
+    "$oid": "6134f1c3f223401d50a2e055"
+  },
+  "name": "Bob",
+  "surname": "Marley",
+  "username": "marley",
+  "password": "Proba123!@",
+  "nation": "Jamaica",
+  "email": "bob@gmail.com",
+  "role": "leader",
+  "accepted": "accepted"
+},{
+  "_id": {
+    "$oid": "6134fcfef223401d50a2e064"
+  },
+  "name": "Jumbo",
+  "surname": "Mills",
+  "username": "jumbo",
+  "password": "Proba123!@",
+  "nation": "Australia",
+  "email": "heavy_parting@gmail.com",
+  "role": "leader",
+  "accepted": "accepted"
+},{
+  "_id": {
+    "$oid": "613500bff223401d50a2e074"
+  },
+  "name": "Angela",
+  "surname": "Merkel",
+  "username": "angela",
+  "password": "Proba123!@",
+  "nation": "Germany",
+  "email": "deutschewelle@gmail.com",
+  "role": "leader",
+  "accepted": "accepted"
+},{
+  "_id": {
+    "$oid": "61350393f223401d50a2e087"
+  },
+  "name": "Silvio",
+  "surname": "Berlusconi",
+  "username": "silvio",
+  "password": "Proba123!@",
+  "nation": "Italy",
+  "email": "silvio@gmail.com",
+  "role": "leader",
+  "accepted": "accepted"
+}]

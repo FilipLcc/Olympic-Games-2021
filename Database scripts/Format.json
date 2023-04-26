@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "61223d51e9d21a1448b28214"
+  },
+  "format_name": "Running_short",
+  "fixture": "one_game",
+  "num_of_players": 8,
+  "result_format": "SS,TT",
+  "num_of_reps": 1
+},{
+  "_id": {
+    "$oid": "61223d70e9d21a1448b28215"
+  },
+  "format_name": "Running_long",
+  "fixture": "one_game",
+  "num_of_players": 8,
+  "result_format": "HH:MM:SS",
+  "num_of_reps": 1
+},{
+  "_id": {
+    "$oid": "612797db93e4132f943f3546"
+  },
+  "format_name": "Running_medium",
+  "fixture": "one_game",
+  "num_of_players": 8,
+  "result_format": "MM:SS,TT",
+  "num_of_reps": 1
+},{
+  "_id": {
+    "$oid": "612799e51010910f00eeebe5"
+  },
+  "format_name": "Jumps_and_throws",
+  "fixture": "one_game",
+  "num_of_players": 8,
+  "result_format": "M,CM",
+  "num_of_reps": 3
+},{
+  "_id": {
+    "$oid": "6127a0651010910f00eeebe6"
+  },
+  "format_name": "Shooting",
+  "fixture": "one_game",
+  "num_of_players": 8,
+  "result_format": "circles",
+  "num_of_reps": 6
+},{
+  "_id": {
+    "$oid": "6127a0901010910f00eeebe7"
+  },
+  "format_name": "Tennis_semis",
+  "fixture": "knockout",
+  "num_of_players": 4,
+  "result_format": "P1:P2",
+  "num_of_reps": 1
+},{
+  "_id": {
+    "$oid": "6127a0a01010910f00eeebe8"
+  },
+  "format_name": "Tennis_quarter",
+  "fixture": "knockout",
+  "num_of_players": 8,
+  "result_format": "P1:P2",
+  "num_of_reps": 1
+},{
+  "_id": {
+    "$oid": "6127a0ac1010910f00eeebe9"
+  },
+  "format_name": "Tennis_full",
+  "fixture": "knockout",
+  "num_of_players": 16,
+  "result_format": "P1:P2",
+  "num_of_reps": 1
+}]

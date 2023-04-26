@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "612008847086787fbd828c33"
+  },
+  "name": "Single",
+  "sport": "Tennis",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "61200db27086787fbd828e3f"
+  },
+  "name": "Running, 100m",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "6120109e7086787fbd828f62"
+  },
+  "name": "Running, 200m",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "6127913793e4132f943f352f"
+  },
+  "name": "Running, 400m",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "6127917c93e4132f943f3531"
+  },
+  "name": "Running, 10000m",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "612791c593e4132f943f3532"
+  },
+  "name": "Running, 800m",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "612791d593e4132f943f3533"
+  },
+  "name": "Running, 5000m",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "6127921593e4132f943f3534"
+  },
+  "name": "High jump",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "6127921c93e4132f943f3535"
+  },
+  "name": "Long jump",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "6127925593e4132f943f3536"
+  },
+  "name": "Triple jump",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "6127927193e4132f943f3537"
+  },
+  "name": "Pole vault",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "6127947093e4132f943f3538"
+  },
+  "name": "Ball throwing",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "6127947693e4132f943f3539"
+  },
+  "name": "Disc throwing",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "6127947b93e4132f943f353a"
+  },
+  "name": "Spear throwing",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "6127949093e4132f943f353b"
+  },
+  "name": "Hammer throwing",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "612794ae93e4132f943f353c"
+  },
+  "name": "Marathon",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "612794c593e4132f943f353d"
+  },
+  "name": "Fast walking, 20km",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "612794ca93e4132f943f353e"
+  },
+  "name": "Fast walking, 50km",
+  "sport": "Athletics",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "612794ed93e4132f943f353f"
+  },
+  "name": "Dirt road race, 225km",
+  "sport": "Cycling",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "6127953393e4132f943f3540"
+  },
+  "name": "Butterfly, 100m",
+  "sport": "Swimming",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "6127953b93e4132f943f3541"
+  },
+  "name": "Freestyle, 200m",
+  "sport": "Swimming",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "6127959793e4132f943f3542"
+  },
+  "name": "Triple, 50m",
+  "sport": "Shooting",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "612795a793e4132f943f3543"
+  },
+  "name": "Air rifle, 10m",
+  "sport": "Shooting",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "612795ae93e4132f943f3544"
+  },
+  "name": "Air pistol, 10m",
+  "sport": "Shooting",
+  "ind_or_group": "Individual"
+},{
+  "_id": {
+    "$oid": "612795be93e4132f943f3545"
+  },
+  "name": "Low caliber pistol, 25m",
+  "sport": "Shooting",
+  "ind_or_group": "Individual"
+}]

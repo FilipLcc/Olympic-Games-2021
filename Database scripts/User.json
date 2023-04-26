@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "611adc16c185ba51d70b2e42"
+  },
+  "name": "Filip",
+  "surname": "Lucic",
+  "username": "FilipL",
+  "password": "Proba123!@",
+  "nation": "Serbia",
+  "email": "filip@gmail.com",
+  "role": "organiser",
+  "delegated_competitions": []
+},{
+  "_id": {
+    "$oid": "611fd1d8d4a1c53ef859eda4"
+  },
+  "name": "Drazen",
+  "surname": "Draskovic",
+  "username": "Drazen",
+  "password": "123",
+  "nation": "Azerbaijan",
+  "email": "draza@gmail.com",
+  "role": "delegate",
+  "delegated_competitions": []
+},{
+  "_id": {
+    "$oid": "611fd386dac3b328d4b7c254"
+  },
+  "name": "Marko",
+  "surname": "Markovic",
+  "username": "mare",
+  "password": "123",
+  "nation": "Brazil",
+  "email": "mare@gmail.com",
+  "role": "leader",
+  "delegated_competitions": []
+},{
+  "_id": {
+    "$oid": "61296a524fc4b20bf889b8b2"
+  },
+  "name": "Azer",
+  "surname": "Azric",
+  "username": "azer",
+  "password": "123",
+  "nation": "Azerbaijan",
+  "email": "az@gmail.com",
+  "role": "leader",
+  "delegated_competitions": []
+},{
+  "_id": {
+    "$oid": "612cf9f92780f919b41bcf9f"
+  },
+  "name": "Mika",
+  "surname": "Miskovic",
+  "username": "mika",
+  "password": "123",
+  "nation": "Argentina",
+  "email": "mika@gmail.com",
+  "role": "delegate",
+  "delegated_competitions": []
+},{
+  "_id": {
+    "$oid": "612d3f6753c10003e0ea58d8"
+  },
+  "name": "Bosko",
+  "surname": "Nikolic",
+  "username": "bole",
+  "password": "123",
+  "nation": "Colombia",
+  "email": "bole@yahoo.com",
+  "role": "delegate",
+  "delegated_competitions": []
+},{
+  "_id": {
+    "$oid": "6131438275d0c33f7c5f355d"
+  },
+  "name": "Brian",
+  "surname": "Maguire",
+  "username": "brian21",
+  "password": "Proba123&*",
+  "nation": "United Kingdom",
+  "email": "brian@gmail.com",
+  "role": "leader",
+  "delegated_competitions": []
+},{
+  "_id": {
+    "$oid": "6134dc0ef223401d50a2e001"
+  },
+  "name": "Robert",
+  "surname": "Lewandowski",
+  "username": "lewa",
+  "password": "Proba123!@",
+  "nation": "Poland",
+  "email": "lewa@gmail.com",
+  "role": "leader",
+  "delegated_competitions": []
+},{
+  "_id": {
+    "$oid": "6134e0abf223401d50a2e00b"
+  },
+  "name": "Clint",
+  "surname": "Eastwood",
+  "username": "blondie",
+  "password": "Proba123!@",
+  "nation": "United States of America",
+  "email": "colt45@gmail.com",
+  "role": "leader",
+  "delegated_competitions": []
+},{
+  "_id": {
+    "$oid": "6134eab2f223401d50a2e031"
+  },
+  "name": "Si",
+  "surname": "Xi-Ping",
+  "username": "brat_si",
+  "password": "Proba123!@",
+  "nation": "China",
+  "email": "brat_si@gmail.com",
+  "role": "leader",
+  "delegated_competitions": []
+},{
+  "_id": {
+    "$oid": "6134edaef223401d50a2e03f"
+  },
+  "name": "Milan",
+  "surname": "Borjan",
+  "username": "borjan",
+  "password": "Proba123!@",
+  "nation": "Canada",
+  "email": "borjan@yahoo.com",
+  "role": "leader",
+  "delegated_competitions": []
+},{
+  "_id": {
+    "$oid": "6134f7e0f223401d50a2e056"
+  },
+  "name": "Bob",
+  "surname": "Marley",
+  "username": "marley",
+  "password": "Proba123!@",
+  "nation": "Jamaica",
+  "email": "bob@gmail.com",
+  "role": "leader",
+  "delegated_competitions": []
+},{
+  "_id": {
+    "$oid": "6134fd08f223401d50a2e065"
+  },
+  "name": "Jumbo",
+  "surname": "Mills",
+  "username": "jumbo",
+  "password": "Proba123!@",
+  "nation": "Australia",
+  "email": "heavy_parting@gmail.com",
+  "role": "leader",
+  "delegated_competitions": []
+},{
+  "_id": {
+    "$oid": "613500c9f223401d50a2e075"
+  },
+  "name": "Angela",
+  "surname": "Merkel",
+  "username": "angela",
+  "password": "Proba123!@",
+  "nation": "Germany",
+  "email": "deutschewelle@gmail.com",
+  "role": "leader",
+  "delegated_competitions": []
+},{
+  "_id": {
+    "$oid": "613503a7f223401d50a2e088"
+  },
+  "name": "Silvio",
+  "surname": "Berlusconi",
+  "username": "silvio",
+  "password": "Proba123!@",
+  "nation": "Italy",
+  "email": "silvio@gmail.com",
+  "role": "leader",
+  "delegated_competitions": []
+}]

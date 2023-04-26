@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "611fe0f17086787fbd82848d"
+  },
+  "name": "Tennis"
+},{
+  "_id": {
+    "$oid": "61200d127086787fbd828de9"
+  },
+  "name": "Athletics"
+},{
+  "_id": {
+    "$oid": "612167a118cf0724d8630041"
+  },
+  "name": "Cycling"
+},{
+  "_id": {
+    "$oid": "61216a5918cf0724d8630042"
+  },
+  "name": "Shooting"
+},{
+  "_id": {
+    "$oid": "6127916493e4132f943f3530"
+  },
+  "name": "Swimming"
+}]

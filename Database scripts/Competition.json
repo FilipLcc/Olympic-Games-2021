@@ -1,0 +1,1438 @@
+[{
+  "_id": {
+    "$oid": "6124262ae083b10c4420416b"
+  },
+  "competition_name": "Sprint, 100m",
+  "start_date": {
+    "$date": "2021-08-05T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-06T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Running, 100m",
+  "gender": "male",
+  "format": "Running_short",
+  "venues": [
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127a9e01010910f00eeebea"
+  },
+  "competition_name": "Sprint, 200m",
+  "start_date": {
+    "$date": "2021-07-28T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-29T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Running, 200m",
+  "gender": "male",
+  "format": "Running_short",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127a9e61010910f00eeebeb"
+  },
+  "competition_name": "Sprint, 200m",
+  "start_date": {
+    "$date": "2021-07-28T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-29T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Running, 200m",
+  "gender": "female",
+  "format": "Running_short",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127aaec1010910f00eeebec"
+  },
+  "competition_name": "Sprint, 100m",
+  "start_date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-24T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Running, 100m",
+  "gender": "female",
+  "format": "Running_short",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [
+    {
+      "id_player": "612d0f81123c87361032dadb"
+    },
+    {
+      "id_player": "612d0f79123c87361032dad9"
+    },
+    {
+      "id_player": "612d0f76123c87361032dad8"
+    },
+    {
+      "id_player": "612d0f90123c87361032dadf"
+    },
+    {
+      "id_player": "612d0f8c123c87361032dade"
+    },
+    {
+      "id_player": "612d0f89123c87361032dadd"
+    },
+    {
+      "id_player": "612d0f7d123c87361032dada"
+    },
+    {
+      "id_player": "612d0f86123c87361032dadc"
+    }
+  ],
+  "delegate": "mika",
+  "formed": true,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127ab3c1010910f00eeebed"
+  },
+  "competition_name": "Sprint, 400m",
+  "start_date": {
+    "$date": "2021-07-24T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-25T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Running, 400m",
+  "gender": "male",
+  "format": "Running_short",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127ab451010910f00eeebee"
+  },
+  "competition_name": "Sprint, 400m",
+  "start_date": {
+    "$date": "2021-07-24T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-25T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Running, 400m",
+  "gender": "female",
+  "format": "Running_short",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127ab721010910f00eeebef"
+  },
+  "competition_name": "Sprint, 800m",
+  "start_date": {
+    "$date": "2021-07-25T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-26T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Running, 800m",
+  "gender": "male",
+  "format": "Running_medium",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [
+    {
+      "id_player": "612d3fab53c10003e0ea58dc"
+    },
+    {
+      "id_player": "612d3fa153c10003e0ea58da"
+    },
+    {
+      "id_player": "612d3fbd53c10003e0ea58e0"
+    },
+    {
+      "id_player": "612d3faf53c10003e0ea58dd"
+    },
+    {
+      "id_player": "612d3f9d53c10003e0ea58d9"
+    },
+    {
+      "id_player": "612d3fb553c10003e0ea58de"
+    },
+    {
+      "id_player": "612d3fa653c10003e0ea58db"
+    },
+    {
+      "id_player": "612d3fb953c10003e0ea58df"
+    }
+  ],
+  "delegate": "bole",
+  "formed": true,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127ab781010910f00eeebf0"
+  },
+  "competition_name": "Sprint, 800m",
+  "start_date": {
+    "$date": "2021-07-25T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-26T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Running, 800m",
+  "gender": "female",
+  "format": "Running_medium",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127ac881010910f00eeebf1"
+  },
+  "competition_name": "Running, 5000m",
+  "start_date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-28T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Running, 5000m",
+  "gender": "male",
+  "format": "Running_medium",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127ac8b1010910f00eeebf2"
+  },
+  "competition_name": "Running, 5000m",
+  "start_date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-28T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Running, 5000m",
+  "gender": "female",
+  "format": "Running_medium",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127af181010910f00eeebf3"
+  },
+  "competition_name": "Running, 10000m",
+  "start_date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-28T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Running, 10000m",
+  "gender": "male",
+  "format": "Running_medium",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127af1a1010910f00eeebf4"
+  },
+  "competition_name": "Running, 10000m",
+  "start_date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-28T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Running, 10000m",
+  "gender": "female",
+  "format": "Running_medium",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127af571010910f00eeebf5"
+  },
+  "competition_name": "High jump",
+  "start_date": {
+    "$date": "2021-07-25T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-25T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "High jump",
+  "gender": "male",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127aff41010910f00eeebf6"
+  },
+  "competition_name": "High jump",
+  "start_date": {
+    "$date": "2021-07-25T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-25T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "High jump",
+  "gender": "female",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b1541010910f00eeebf7"
+  },
+  "competition_name": "Long jump",
+  "start_date": {
+    "$date": "2021-07-29T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-29T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Long jump",
+  "gender": "male",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b1721010910f00eeebf8"
+  },
+  "competition_name": "Long jump",
+  "start_date": {
+    "$date": "2021-07-29T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-29T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Long jump",
+  "gender": "female",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b18e1010910f00eeebf9"
+  },
+  "competition_name": "Triple jump",
+  "start_date": {
+    "$date": "2021-07-30T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-30T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Triple jump",
+  "gender": "male",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b1911010910f00eeebfa"
+  },
+  "competition_name": "Triple jump",
+  "start_date": {
+    "$date": "2021-07-30T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-30T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Triple jump",
+  "gender": "female",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b1b51010910f00eeebfb"
+  },
+  "competition_name": "Pole vault",
+  "start_date": {
+    "$date": "2021-07-31T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-31T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Pole vault",
+  "gender": "male",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b1b71010910f00eeebfc"
+  },
+  "competition_name": "Pole vault",
+  "start_date": {
+    "$date": "2021-07-31T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-31T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Pole vault",
+  "gender": "female",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b1fb1010910f00eeebfd"
+  },
+  "competition_name": "Ball throwing",
+  "start_date": {
+    "$date": "2021-08-01T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-01T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Ball throwing",
+  "gender": "male",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [
+    {
+      "id_player": "612d2e622e87742e60b56d3a"
+    },
+    {
+      "id_player": "612d2e5c2e87742e60b56d38"
+    },
+    {
+      "id_player": "612d2e582e87742e60b56d37"
+    },
+    {
+      "id_player": "612d2e702e87742e60b56d3e"
+    },
+    {
+      "id_player": "612d2e652e87742e60b56d3b"
+    },
+    {
+      "id_player": "612d2e6b2e87742e60b56d3d"
+    },
+    {
+      "id_player": "612d2e5f2e87742e60b56d39"
+    },
+    {
+      "id_player": "612d2e682e87742e60b56d3c"
+    }
+  ],
+  "delegate": "mika",
+  "formed": true,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b1ff1010910f00eeebfe"
+  },
+  "competition_name": "Ball throwing",
+  "start_date": {
+    "$date": "2021-08-01T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-01T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Ball throwing",
+  "gender": "female",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b3371010910f00eeebff"
+  },
+  "competition_name": "Disc throwing",
+  "start_date": {
+    "$date": "2021-08-02T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-02T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Disc throwing",
+  "gender": "male",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b3391010910f00eeec00"
+  },
+  "competition_name": "Disc throwing",
+  "start_date": {
+    "$date": "2021-08-02T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-02T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Disc throwing",
+  "gender": "female",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b3621010910f00eeec01"
+  },
+  "competition_name": "Hammer throwing",
+  "start_date": {
+    "$date": "2021-08-03T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-03T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Hammer throwing",
+  "gender": "male",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b3641010910f00eeec02"
+  },
+  "competition_name": "Hammer throwing",
+  "start_date": {
+    "$date": "2021-08-03T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-03T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Hammer throwing",
+  "gender": "female",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b4c61010910f00eeec03"
+  },
+  "competition_name": "Spear throwing",
+  "start_date": {
+    "$date": "2021-08-04T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-04T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Spear throwing",
+  "gender": "male",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b4c81010910f00eeec04"
+  },
+  "competition_name": "Spear throwing",
+  "start_date": {
+    "$date": "2021-08-04T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-04T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Spear throwing",
+  "gender": "female",
+  "format": "Jumps_and_throws",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b5b31010910f00eeec07"
+  },
+  "competition_name": "Marathon",
+  "start_date": {
+    "$date": "2021-08-05T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-05T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Marathon",
+  "gender": "male",
+  "format": "Running_long",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b5bb1010910f00eeec08"
+  },
+  "competition_name": "Marathon",
+  "start_date": {
+    "$date": "2021-08-05T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-05T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Marathon",
+  "gender": "female",
+  "format": "Running_long",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b6221010910f00eeec09"
+  },
+  "competition_name": "Fast walking, 20km",
+  "start_date": {
+    "$date": "2021-08-06T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-06T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Fast walking, 20km",
+  "gender": "male",
+  "format": "Running_long",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b6251010910f00eeec0a"
+  },
+  "competition_name": "Fast walking, 20km",
+  "start_date": {
+    "$date": "2021-08-06T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-06T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Fast walking, 20km",
+  "gender": "female",
+  "format": "Running_long",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b63f1010910f00eeec0b"
+  },
+  "competition_name": "Fast walking, 50km",
+  "start_date": {
+    "$date": "2021-08-07T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-07T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Fast walking, 50km",
+  "gender": "male",
+  "format": "Running_long",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b6411010910f00eeec0c"
+  },
+  "competition_name": "Fast walking, 50km",
+  "start_date": {
+    "$date": "2021-08-07T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-07T00:00:00Z"
+  },
+  "sport": "Athletics",
+  "discipline": "Fast walking, 50km",
+  "gender": "female",
+  "format": "Running_long",
+  "venues": [
+    {
+      "name": "Olympic Stadium"
+    },
+    {
+      "name": "Sapporo Odori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b9eb1010910f00eeec0d"
+  },
+  "competition_name": "Dirt track race",
+  "start_date": {
+    "$date": "2021-08-01T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-01T00:00:00Z"
+  },
+  "sport": "Cycling",
+  "discipline": "Dirt road race, 225km",
+  "gender": "male",
+  "format": "Running_long",
+  "venues": [
+    {
+      "name": "Ariake Urban Sports Park"
+    },
+    {
+      "name": "Fuji International Speedway"
+    },
+    {
+      "name": "Musashinonomori Park"
+    }
+  ],
+  "participants": [
+    {
+      "id_player": "612cfdf72780f919b41bcfa3"
+    },
+    {
+      "id_player": "612cfdef2780f919b41bcfa1"
+    },
+    {
+      "id_player": "612cfdfa2780f919b41bcfa4"
+    },
+    {
+      "id_player": "612cfdea2780f919b41bcfa0"
+    },
+    {
+      "id_player": "612cfe052780f919b41bcfa7"
+    },
+    {
+      "id_player": "612cfe012780f919b41bcfa6"
+    },
+    {
+      "id_player": "612cfdf22780f919b41bcfa2"
+    },
+    {
+      "id_player": "612cfdfd2780f919b41bcfa5"
+    }
+  ],
+  "delegate": "mika",
+  "formed": true,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127b9ee1010910f00eeec0e"
+  },
+  "competition_name": "Dirt track race",
+  "start_date": {
+    "$date": "2021-08-01T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-01T00:00:00Z"
+  },
+  "sport": "Cycling",
+  "discipline": "Dirt road race, 225km",
+  "gender": "female",
+  "format": "Running_long",
+  "venues": [
+    {
+      "name": "Ariake Urban Sports Park"
+    },
+    {
+      "name": "Fuji International Speedway"
+    },
+    {
+      "name": "Musashinonomori Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127ba511010910f00eeec0f"
+  },
+  "competition_name": "Butterfly, 100m",
+  "start_date": {
+    "$date": "2021-07-24T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-24T00:00:00Z"
+  },
+  "sport": "Swimming",
+  "discipline": "Butterfly, 100m",
+  "gender": "male",
+  "format": "Running_short",
+  "venues": [
+    {
+      "name": "Odaiba Marine Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127ba531010910f00eeec10"
+  },
+  "competition_name": "Butterfly, 100m",
+  "start_date": {
+    "$date": "2021-07-24T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-24T00:00:00Z"
+  },
+  "sport": "Swimming",
+  "discipline": "Butterfly, 100m",
+  "gender": "female",
+  "format": "Running_short",
+  "venues": [
+    {
+      "name": "Odaiba Marine Park"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127ba7d1010910f00eeec11"
+  },
+  "competition_name": "Freestyle, 200m",
+  "start_date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "sport": "Swimming",
+  "discipline": "Freestyle, 200m",
+  "gender": "male",
+  "format": "Running_short",
+  "venues": [
+    {
+      "name": "Tokyo Aquatics Centre"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127ba7e1010910f00eeec12"
+  },
+  "competition_name": "Freestyle, 200m",
+  "start_date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-23T00:00:00Z"
+  },
+  "sport": "Swimming",
+  "discipline": "Freestyle, 200m",
+  "gender": "female",
+  "format": "Running_short",
+  "venues": [
+    {
+      "name": "Tokyo Aquatics Centre"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127bc221010910f00eeec13"
+  },
+  "competition_name": "Air pistol",
+  "start_date": {
+    "$date": "2021-07-26T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-26T00:00:00Z"
+  },
+  "sport": "Shooting",
+  "discipline": "Air pistol, 10m",
+  "gender": "male",
+  "format": "Shooting",
+  "venues": [
+    {
+      "name": "Asaka Shooting Range"
+    }
+  ],
+  "participants": [
+    {
+      "id_player": "61296ad94fc4b20bf889b8b6"
+    },
+    {
+      "id_player": "61296ac74fc4b20bf889b8b4"
+    },
+    {
+      "id_player": "61296afe4fc4b20bf889b8ba"
+    },
+    {
+      "id_player": "61296ae04fc4b20bf889b8b7"
+    },
+    {
+      "id_player": "61296abb4fc4b20bf889b8b3"
+    },
+    {
+      "id_player": "61296af14fc4b20bf889b8b9"
+    },
+    {
+      "id_player": "61296aeb4fc4b20bf889b8b8"
+    },
+    {
+      "id_player": "61296acf4fc4b20bf889b8b5"
+    }
+  ],
+  "delegate": "Drazen",
+  "formed": true,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127bc251010910f00eeec14"
+  },
+  "competition_name": "Air pistol",
+  "start_date": {
+    "$date": "2021-07-26T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-26T00:00:00Z"
+  },
+  "sport": "Shooting",
+  "discipline": "Air pistol, 10m",
+  "gender": "female",
+  "format": "Shooting",
+  "venues": [
+    {
+      "name": "Asaka Shooting Range"
+    }
+  ],
+  "participants": [],
+  "delegate": "Drazen",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127bc481010910f00eeec15"
+  },
+  "competition_name": "Air rifle",
+  "start_date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "sport": "Shooting",
+  "discipline": "Air rifle, 10m",
+  "gender": "male",
+  "format": "Shooting",
+  "venues": [
+    {
+      "name": "Asaka Shooting Range"
+    }
+  ],
+  "participants": [],
+  "delegate": "Drazen",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127bc4a1010910f00eeec16"
+  },
+  "competition_name": "Air rifle",
+  "start_date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-27T00:00:00Z"
+  },
+  "sport": "Shooting",
+  "discipline": "Air rifle, 10m",
+  "gender": "female",
+  "format": "Shooting",
+  "venues": [
+    {
+      "name": "Asaka Shooting Range"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127bc641010910f00eeec17"
+  },
+  "competition_name": "Low caliber pistol",
+  "start_date": {
+    "$date": "2021-07-29T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-29T00:00:00Z"
+  },
+  "sport": "Shooting",
+  "discipline": "Low caliber pistol, 25m",
+  "gender": "male",
+  "format": "Shooting",
+  "venues": [
+    {
+      "name": "Asaka Shooting Range"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127bc661010910f00eeec18"
+  },
+  "competition_name": "Low caliber pistol",
+  "start_date": {
+    "$date": "2021-07-29T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-07-29T00:00:00Z"
+  },
+  "sport": "Shooting",
+  "discipline": "Low caliber pistol, 25m",
+  "gender": "female",
+  "format": "Shooting",
+  "venues": [
+    {
+      "name": "Asaka Shooting Range"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127bc8e1010910f00eeec19"
+  },
+  "competition_name": "Triple shooting",
+  "start_date": {
+    "$date": "2021-08-03T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-03T00:00:00Z"
+  },
+  "sport": "Shooting",
+  "discipline": "Triple, 50m",
+  "gender": "male",
+  "format": "Shooting",
+  "venues": [
+    {
+      "name": "Asaka Shooting Range"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "6127bc911010910f00eeec1a"
+  },
+  "competition_name": "Triple shooting",
+  "start_date": {
+    "$date": "2021-08-03T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-03T00:00:00Z"
+  },
+  "sport": "Shooting",
+  "discipline": "Triple, 50m",
+  "gender": "female",
+  "format": "Shooting",
+  "venues": [
+    {
+      "name": "Asaka Shooting Range"
+    }
+  ],
+  "participants": [],
+  "delegate": "",
+  "formed": false,
+  "over": false
+},{
+  "_id": {
+    "$oid": "61323400210f23103411c7bb"
+  },
+  "competition_name": "Tennis, 8-players",
+  "start_date": {
+    "$date": "2021-07-25T00:00:00Z"
+  },
+  "end_date": {
+    "$date": "2021-08-03T00:00:00Z"
+  },
+  "sport": "Tennis",
+  "discipline": "Single",
+  "gender": "male",
+  "format": "Tennis_quarter",
+  "venues": [
+    {
+      "name": "Ariake Tennis Park"
+    }
+  ],
+  "participants": [
+    {
+      "id_player": "612e13437c9fd9225c99cf75"
+    },
+    {
+      "id_player": "612e1716f5e45d25d0284752"
+    },
+    {
+      "id_player": "612e13497c9fd9225c99cf76"
+    },
+    {
+      "id_player": "612e1722f5e45d25d0284754"
+    },
+    {
+      "id_player": "612e133b7c9fd9225c99cf74"
+    },
+    {
+      "id_player": "612e164af5e45d25d0284750"
+    },
+    {
+      "id_player": "612e171df5e45d25d0284753"
+    },
+    {
+      "id_player": "612e1729f5e45d25d0284755"
+    }
+  ],
+  "delegate": "bole",
+  "formed": true,
+  "over": false
+}]
